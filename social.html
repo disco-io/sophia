@@ -9,11 +9,7 @@
 </head>
 
 <body>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="resume.html">Resume</a>
-        <a href="social.html">Social</a>
-    </nav>
+    <div id="navbar"></div>
 
     <section class="content">
         <h1>Find Me Online</h1>
@@ -33,6 +29,14 @@
             </a>
         </div>
     </section>
+
+    <script>
+        fetch("nav.html")
+            .then(res => res.text())
+            .then(data => {
+                document.getElementById("navbar").innerHTML = data;
+            });
+    </script>
 </body>
 
 </html>

@@ -16,20 +16,23 @@
 </head>
 
 <body>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="resume.html">Resume</a>
-        <a href="social.html">Social</a>
-    </nav>
+    <div id="navbar"></div>
 
     <section class="content">
         <h1>My Resume</h1>
 
         <iframe src="assets/huangresume.pdf" class="pdf-viewer"></iframe>
 
-        <p>If the PDF doesn’t load, you can also <a href="assets/huangresume.pdf" target="_blank">download it here</a>.
         </p>
     </section>
+
+    <script>
+        fetch("nav.html")
+            .then(res => res.text())
+            .then(data => {
+                document.getElementById("navbar").innerHTML = data;
+            });
+    </script>
 </body>
 
 </html>

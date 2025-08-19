@@ -4,21 +4,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Me - Sophia</title>
+    <title>About Me - Sophia Huang!</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-    <nav>
-        <a href="index.html">Home</a>
-        <a href="resume.html">Resume</a>
-        <a href="social.html">Social</a>
-    </nav>
+    <div id="navbar"></div>
 
     <section class="content">
         <h1>Hi, I’m Sophia 👋</h1>
-        <p>Welcome to my personal website!
+        <p>Welcome to my personal website!</p>
     </section>
+
+    <script>
+        fetch("nav.html")
+            .then(res => res.text())
+            .then(data => {
+                document.getElementById("navbar").innerHTML = data;
+            });
+    </script>
 </body>
+
 
 </html>
