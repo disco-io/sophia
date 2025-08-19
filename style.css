@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+#content {
+    background-color: #f3efdd;
+    min-height: 100vh;
+}
+
 .intro-section {
     display: flex;
     align-items: center;
@@ -16,8 +21,9 @@
 .intro-image img {
     width: 250px;
     height: auto;
-    border-radius: 10px;
+    border-radius: 40px;
     object-fit: cover;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
 .intro-text {
@@ -27,11 +33,29 @@
 .intro-text h1 {
     font-family: Georgia, serif;
     font-size: 40px;
+    color: #787f17;
     margin-bottom: 20px;
 }
 
 .intro-text p {
     font-family: Optima, sans-serif;
     font-size: 20px;
+    color: #83874b;
     line-height: 1.6;
+}
+
+.info-line {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 1rem;
+    color: #333;
+    margin: 6px 0;
+}
+
+.icon {
+    width: 18px;
+    height: 18px;
+    stroke: currentColor;
+    flex-shrink: 0;
 }
