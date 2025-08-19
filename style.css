@@ -44,18 +44,19 @@
     line-height: 1.6;
 }
 
-.info-line {
+.icon-item {
     display: flex;
     align-items: center;
     gap: 8px;
-    font-size: 1rem;
-    color: #333;
     margin: 6px 0;
+    font-family: Optima, sans-serif;
+    font-size: 20px;
+    color: #83874b;
 }
 
-.icon {
+.icon-item svg {
     width: 18px;
     height: 18px;
-    stroke: currentColor;
+    fill: #83874b;
     flex-shrink: 0;
 }
