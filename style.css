@@ -1,56 +1,9 @@
-/* Reset default margins and padding to avoid shrinking navbar */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Navbar styling */
-nav {
-    width: 100%;
-    /* full width */
-    display: flex;
-    justify-content: center;
-    /* center links */
-    align-items: center;
-    background-color: #ffdcd5;
-    padding: 20px 0;
-    gap: 40px;
-}
-
-/* Link styles */
-nav a {
-    color: #787f17;
-    text-decoration: none;
-    transition: all 0.3s ease;
-    padding: 8px 12px;
-    border-radius: 8px;
-}
-
-/* "Sophia" link */
-nav a[href="index.html"] {
-    font-family: Georgia, serif;
-    font-size: 50px;
-    font-weight: bold;
-}
-
-/* Other links */
-nav a:not([href="index.html"]) {
-    font-family: Optima, sans-serif;
-    font-size: 25px;
-    text-transform: uppercase;
-}
-
-/* Hover effect */
-nav a:hover {
-    color: #ffdcd5;
-    background-color: #787f17;
-    border-radius: 0;
-    text-decoration: none;
-    padding: 8px 12px;
-}
-
-/* Intro section with image and text */
 .intro-section {
     display: flex;
     align-items: center;
