@@ -1,7 +1,41 @@
 <nav>
     <a href="blog.html">Feed</a>
     <a href="books.html">Books</a>
-    <a href="index.html">Sophia Huang</a>
+    <a href="index.html">Sophia</a>
     <a href="resume.html">Resume</a>
     <a href="social.html">Social</a>
 </nav>
+
+<style>
+    nav {
+        background-color: #ffdcd5;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px 0;
+        gap: 40px;
+    }
+
+    nav a {
+        color: #787f17;
+        text-decoration: none;
+        transition: color 0.3s;
+    }
+
+    /* "Sophia" */
+    nav a[href="index.html"] {
+        font-family: Georgia, serif;
+        font-size: 50px;
+        font-weight: bold;
+    }
+
+    nav a:not([href="index.html"]) {
+        font-family: Optima, sans-serif;
+        font-size: 25px;
+        text-transform: uppercase;
+    }
+
+    nav a:hover {
+        color: darkgreen;
+    }
+</style>

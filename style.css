@@ -1,55 +1,38 @@
-/* Base styles */
 body {
+    font-family: Arial, sans-serif;
     margin: 0;
-    font-family: 'Georgia', serif;
-    /* Elegant serif font */
-    background-color: #f8d8e6;
-    /* light pink background, you can change later */
+    background: #f9f9f9;
     color: #333;
 }
 
-/* Navbar styles */
-.navbar {
-    background: white;
-    padding: 1rem 2rem;
-    border-bottom: 1px solid #ddd;
-}
-
-.navbar ul {
-    list-style: none;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    padding: 0;
-    gap: 2rem;
-}
-
-.navbar li a {
-    text-decoration: none;
-    color: #444;
-    font-size: 0.95rem;
-    font-weight: 500;
-    letter-spacing: 0.5px;
-    transition: color 0.2s;
-}
-
-.navbar li a:hover {
-    color: #a45c7d;
-    /* muted rose hover color */
-}
-
-/* Make your name (logo) stand out */
-.navbar .logo a {
-    font-family: 'Times New Roman', serif;
-    font-size: 1.5rem;
-    font-weight: bold;
-    letter-spacing: 1px;
-    color: #222;
-}
-
-/* Content area */
-.content {
+nav {
+    background: #222;
+    padding: 10px;
     text-align: center;
-    padding: 3rem 2rem;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+.content {
+    padding: 40px;
+    text-align: center;
+}
+
+.icon {
+    width: 60px;
+    margin: 10px;
+    transition: transform 0.2s;
+}
+
+.icon:hover {
+    transform: scale(1.1);
 }
