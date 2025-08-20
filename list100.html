@@ -12,6 +12,7 @@
     <div id="navbar"></div>
 
     <div id="content">
+        <h1 class="list-title">My List 100</h1>
         <section class="intro-section">
             <div class="intro-text">
                 <div id="list100"></div>
@@ -38,7 +39,7 @@
                     const item = document.createElement("div");
                     item.classList.add("icon-item");
                     item.innerHTML = `<span>${count}. ${task}</span>`;
-                    item.style.marginBottom = "1em";
+                    item.style.marginBottom = "1em"; // spacing between items
                     container.appendChild(item);
                     count++;
                 });
