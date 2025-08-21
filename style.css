@@ -89,7 +89,7 @@
 .bag-banner {
     background-color: #ffdcd5;
     text-align: center;
-    padding: 40px 0;
+    padding: 50px 0;
 }
 
 .bag-banner h2 {
@@ -100,41 +100,101 @@
 }
 
 .bag-section {
+    position: relative;
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
-    padding: 60px 20px;
+    padding: 150px 0;
     background-color: #f3efdd;
+    min-height: 670px;
 }
 
 .bag-center img {
-    width: 500px;
-    max-width: 90%;
-    border-radius: 20px;
-    margin-bottom: 40px;
+    width: 470px;
+    max-width: 80%;
+    z-index: 1;
+    position: relative;
 }
 
 .bag-items {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 40px;
-    max-width: 900px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 600px;
+    height: 500px;
+    transform: translate(-50%, -50%);
 }
 
 .bag-item {
+    position: absolute;
     text-align: center;
-    max-width: 180px;
 }
 
 .bag-item img {
+    max-height: 300px;
+    max-width: 300px;
     width: auto;
-    height: 120px;
-    margin-bottom: 10px;
+}
+
+.item1 img {
+    height: 150px;
+}
+
+.item2 img {
+    height: 160px;
+}
+
+.item3 img {
+    height: 130px;
+}
+
+.item4 img {
+    height: 140px;
+}
+
+.item5 img {
+    width: 220px;
+}
+
+
+.item1 {
+    /* lotion */
+    top: 2%;
+    left: 1%;
+    transform: rotate(-25deg);
+}
+
+.item2 {
+    /* perfume */
+    top: 55%;
+    left: 1%;
+    transform: rotate(5deg);
+}
+
+.item3 {
+    /* wallet */
+    top: 10%;
+    right: 5%;
+    transform: rotate(6deg);
+}
+
+.item4 {
+    /* phone */
+    top: 50%;
+    right: 12%;
+    transform: rotate(-10deg);
+}
+
+.item5 {
+    /* sunnies */
+    top: -10%;
+    left: 50%;
+    transform: translateX(-50%) rotate(3deg);
 }
 
 .bag-item p {
     font-family: Optima, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     color: #83874b;
+    margin-top: 6px;
 }
