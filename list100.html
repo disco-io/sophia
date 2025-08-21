@@ -14,8 +14,8 @@
     <div id="content">
         <h1 class="list-title">My List 100</h1>
         <p class="list-caption">
-            So many things to do, yet so little time! Here are 100 things on my bucket list that I'd like to do during
-            this lifetime. <br> In no particular order:
+            So much to do, yet so little time! Here are 100 things on my bucket list that I'd like to do in my
+            lifetime. <br> In no particular order:
         </p>
         <section class="intro-section">
             <div class="intro-text">
@@ -44,7 +44,7 @@
                     const item = document.createElement("div");
                     item.classList.add("icon-item");
                     item.innerHTML = `<span>${count}. ${task}</span>`;
-                    item.style.marginBottom = "1em"; // spacing between items
+                    item.style.marginBottom = "1em";
                     container.appendChild(item);
                     count++;
                 });
