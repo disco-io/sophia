@@ -8,6 +8,9 @@
 
 <style>
     nav {
+        position: fixed;
+        top: 0;
+        left: 0;
         width: 100%;
         display: flex;
         justify-content: center;
@@ -16,6 +19,7 @@
         padding: 20px 0;
         gap: 40px;
         box-sizing: border-box;
+        z-index: 1000;
     }
 
     nav a {
@@ -26,7 +30,6 @@
         border-radius: 8px;
     }
 
-    /* "Sophia" */
     nav a[href="index.html"] {
         font-family: Georgia, serif;
         font-size: 50px;
@@ -45,5 +48,10 @@
         border-radius: 0;
         text-decoration: none;
         padding: 8px 12px;
+    }
+
+    body {
+        margin: 0;
+        padding-top: 100px;
     }
 </style>
