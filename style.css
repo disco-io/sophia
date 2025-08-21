@@ -104,7 +104,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 150px 0;
+    padding: 100px 0;
     background-color: #f3efdd;
     min-height: 670px;
 }
@@ -112,7 +112,7 @@
 .bag-center img {
     width: 470px;
     max-width: 80%;
-    z-index: 1;
+    z-index: 2;
     position: relative;
 }
 
@@ -159,7 +159,7 @@
 
 .item1 {
     /* lotion */
-    top: 2%;
+    top: 0%;
     left: 1%;
     transform: rotate(-25deg);
 }
@@ -181,7 +181,7 @@
 .item4 {
     /* phone */
     top: 50%;
-    right: 12%;
+    right: 9%;
     transform: rotate(-10deg);
 }
 
