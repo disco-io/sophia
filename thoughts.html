@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page Title - Sophia Huang!</title>
+    <title>Sophia Huang!</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
@@ -12,15 +12,22 @@
     <div id="navbar"></div>
 
     <div id="content">
-        <section class="page-section">
-        </section>
+        <div id="blog"></div>
     </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
     <script>
         fetch("nav.html")
             .then(res => res.text())
             .then(data => {
                 document.getElementById("navbar").innerHTML = data;
+            });
+
+        fetch("thoughts.md")
+            .then(res => res.text())
+            .then(md => {
+                document.getElementById("blog").innerHTML = marked.parse(md);
             });
     </script>
 </body>
