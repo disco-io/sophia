@@ -106,8 +106,10 @@
     align-items: center;
     padding: 100px 0;
     background-color: #f3efdd;
-    min-height: 670px;
+    min-height: auto;
+    margin-top: 100px;
 }
+
 
 .bag-center img {
     width: 470px;
