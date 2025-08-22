@@ -181,7 +181,7 @@
 .item4 {
     /* phone */
     top: 50%;
-    right: 9%;
+    right: 12%;
     transform: rotate(-10deg);
 }
 
@@ -197,4 +197,25 @@
     font-size: 14px;
     color: #83874b;
     margin-top: 6px;
+}
+
+.socials-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
+    gap: 15px;
+    justify-items: center;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.socials-grid a img {
+    width: auto;
+    height: 65px;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+    cursor: pointer;
+}
+
+.socials-grid a img:hover {
+    transform: scale(1.1);
+    opacity: 0.8;
 }
