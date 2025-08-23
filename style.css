@@ -274,3 +274,23 @@
     padding: 40px 0 0 0;
     margin: 0;
 }
+
+.ootd-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f3efdd;
+    padding: 80px 20px;
+}
+
+.ootd-center {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.ootd-center img {
+    width: auto;
+    height: 350px;
+}
