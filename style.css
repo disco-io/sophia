@@ -213,8 +213,8 @@ body {
 
 .socials-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-    gap: 15px;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 50px;
     justify-items: center;
     max-width: 500px;
     margin: 0 auto;
