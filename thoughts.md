@@ -7,3 +7,12 @@ Only a few days left before I move to New York. I’ll miss the room I grew up i
 > ( ... )  
 > Romanticize a quiet life  
 > There's no place like my room
+
+# ▶ About You - The 1975
+*August 19, 2025*
+
+> And there was something 'bout you that now I can't remember  
+> It's the same damn thing that made my heart surrender  
+> And I miss you on the train, I miss you in the morning  
+> I never know what to think about  
+> I think about you  
