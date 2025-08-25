@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sophia Huang!</title>
+    <title>Sophia Huang | Recs</title>
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="home/favicon.png" type="image/x-icon">
 </head>
@@ -13,15 +13,22 @@
     <div id="navbar"></div>
 
     <div id="content">
-        <h1 class="list-title">check back later...</h1>
+        <div id="recs"></div>
     </div>
 
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
     <script>
         fetch("nav.html")
             .then(res => res.text())
             .then(data => {
                 document.getElementById("navbar").innerHTML = data;
+            });
+
+        fetch("recs.md")
+            .then(res => res.text())
+            .then(md => {
+                document.getElementById("recs").innerHTML = marked.parse(md);
             });
     </script>
 </body>
