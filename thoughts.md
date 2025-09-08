@@ -1,3 +1,11 @@
+# ▶ Motivational Quote
+*September 8, 2025*
+
+> I can't complain about having too much on my plate when my goal was to eat.  
+
+Love this saying because it reminds me to appreciate the moment I’m in. Sometimes I get so caught up in working for the future that I forget to notice that I’m already living the life I once dreamed about. It’s definitely something to be grateful for, even during all the hard work and busy days. Sometimes what feels like too much on my plate is exactly what I set out to achieve in the first place!
+
+
 # ▶ No Place Like My Room
 *August 21, 2025*
 
