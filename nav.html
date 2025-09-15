@@ -20,6 +20,10 @@
         gap: 40px;
         box-sizing: border-box;
         z-index: 1000;
+        /* make scrollable on mobile */
+        overflow-x: auto;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
     }
 
     nav a {
@@ -28,6 +32,7 @@
         transition: all 0.3s ease;
         padding: 8px 12px;
         border-radius: 8px;
+        flex: 0 0 auto;
     }
 
     nav a[href="index.html"] {

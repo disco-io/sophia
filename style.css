@@ -371,81 +371,17 @@ body {
     height: auto;
 }
 
-@media (max-width: 48em) {
-
-    /* Tablet and smaller */
-    nav {
-        flex-wrap: wrap;
-        gap: 2vw;
-        padding: 1em 0;
-    }
-
-    nav a[href="index.html"] {
-        font-size: 2rem;
-    }
-
-    nav a:not([href="index.html"]) {
-        font-size: 1.2rem;
-    }
-
+@media (max-width: 768px) {
     body {
-        padding-top: 5em;
+        padding-top: 80px;
     }
 
     .intro-section {
-        flex-direction: column;
-        padding: 2em 1.5em;
-        text-align: center;
+        padding: 20px;
     }
 
     .intro-image img {
-        width: 40vw;
-        max-width: 12em;
-    }
-
-    .intro-text h1 {
-        font-size: 2.2rem;
-    }
-
-    .intro-text p {
-        font-size: 1rem;
-    }
-
-    .socials-grid {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 2em;
-    }
-
-    .ootd-center img {
-        height: 40vh;
-        max-height: 15em;
-    }
-}
-
-@media (max-width: 30em) {
-
-    /* Phone */
-    nav {
-        flex-direction: column;
-        gap: 1em;
-        padding: 1em 0;
-    }
-
-    nav a[href="index.html"] {
-        font-size: 1.6rem;
-    }
-
-    nav a:not([href="index.html"]) {
-        font-size: 1rem;
-    }
-
-    body {
-        padding-top: 7em;
-    }
-
-    .intro-image img {
-        width: 60vw;
-        max-width: 10em;
+        width: 180px;
     }
 
     .intro-text h1 {
@@ -453,11 +389,73 @@ body {
     }
 
     .intro-text p {
+        font-size: 0.95rem;
+    }
+
+    #blog,
+    #recs {
         font-size: 0.9rem;
+        padding: 10px;
+    }
+
+    #blog h1,
+    #recs h1 {
+        font-size: 1.2rem;
+    }
+
+    #recs img {
+        width: 100px;
     }
 
     .ootd-center img {
-        height: 30vh;
-        max-height: 12em;
+        height: 250px;
+    }
+
+    .socials-grid {
+        gap: 20px;
+    }
+
+    .socials-grid a img {
+        height: 45px;
+    }
+}
+
+@media (max-width: 480px) {
+    body {
+        padding-top: 70px;
+    }
+
+    nav {
+        gap: 20px;
+        padding: 10px 0;
+    }
+
+    nav a[href="index.html"] {
+        font-size: 1.5rem;
+    }
+
+    nav a:not([href="index.html"]) {
+        font-size: 1rem;
+    }
+
+    .intro-image img {
+        width: 140px;
+    }
+
+    .intro-text h1 {
+        font-size: 1.5rem;
+    }
+
+    .intro-text p {
+        font-size: 0.85rem;
+    }
+
+    #blog,
+    #recs {
+        font-size: 0.85rem;
+    }
+
+    .ootd-center img {
+        height: 200px;
     }
 }
