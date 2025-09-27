@@ -12,11 +12,14 @@ I started reading this book in June 2024, and it took me a full year to finish a
 *Music*
 
 ![Saw You In a Dream](recs/sawyouinadream.jpg)
-*I saw you in a dream*   
-*You came to me*     
-*You were the sweetest apparition, such a pretty vision*      
-*There was no reason, no explanation*     
-*The perfect hallucination*
+
+Dreams are a strange thing. You’re supposed to be at rest while you sleep, yet sometimes your mind feels more active than ever, spinning the wildest visions so vivid they can feel more real than waking life. That’s how some of my dreams are. I’ve lived through entire stories in my sleep, and a few have even left a mark on my waking world.
+
+> I saw you in a dream   
+> You came to me   
+> You were the sweetest apparition, such a pretty vision     
+> There was no reason, no explanation  
+> The perfect hallucination 
 
 
 # ▷ *About You* — The 1975

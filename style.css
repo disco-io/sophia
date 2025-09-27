@@ -344,7 +344,7 @@ body {
 /* ----- Blog & Recs ----- */
 #blog,
 #recs {
-    font-size: clamp(11px, 2vw, 18px);
+    font-size: clamp(12.5px, 2vw, 18px);
     color: #83874b;
     line-height: 1.6;
     max-width: 700px;
