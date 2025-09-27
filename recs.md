@@ -8,11 +8,12 @@ I started reading this book in June 2024, and it took me a full year to finish a
 > “Life rearranges itself to compensate for your loss, sometimes wonderfully.”
 
 
-# ▷ *Saw You In A Dream* — TJH
+# ▷ *Saw You In A Dream* — Japanese House
 *Music*
 
 ![Saw You In a Dream](recs/sawyouinadream.jpg)
-> I saw you in a dream, you came to me    
+> I saw you in a dream  
+> You came to me    
 > You were the sweetest apparition, such a pretty vision    
 > There was no reason, no explanation   
 > The perfect hallucination   
