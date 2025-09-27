@@ -20,18 +20,9 @@
         gap: 40px;
         box-sizing: border-box;
         z-index: 1000;
-
-        /* make scrollable on mobile */
         overflow-x: auto;
         white-space: nowrap;
         -webkit-overflow-scrolling: touch;
-
-        /* hide scrollbars */
-        scrollbar-width: none;
-    }
-
-    nav::-webkit-scrollbar {
-        display: none;
     }
 
     nav a {
@@ -41,7 +32,6 @@
         padding: 8px 12px;
         border-radius: 8px;
         flex: 0 0 auto;
-        /* don’t shrink links */
     }
 
     nav a[href="index.html"] {
@@ -69,25 +59,24 @@
         padding-top: 100px;
     }
 
-    /* fade indicators */
-    nav::before,
-    nav::after {
-        content: "";
-        position: absolute;
-        top: 0;
-        width: 40px;
-        height: 100%;
-        pointer-events: none;
-        z-index: 1001;
-    }
+    @media (max-width: 768px) {
+        nav {
+            padding: 12px 0;
+            gap: 20px;
+            justify-content: flex-start;
+        }
 
-    nav::before {
-        left: 0;
-        background: linear-gradient(to right, #ffdcd5, transparent);
-    }
+        nav a[href="index.html"] {
+            font-size: 2rem;
+        }
 
-    nav::after {
-        right: 0;
-        background: linear-gradient(to left, #ffdcd5, transparent);
+        nav a:not([href="index.html"]) {
+            font-size: 1rem;
+        }
+
+        body {
+            padding-top: 60px;
+
+        }
     }
 </style>
