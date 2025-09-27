@@ -1,4 +1,4 @@
-# ▶ *A Little Life* — Hanya Yanagihara
+# ▷ *A Little Life* — Hanya Yanagihara
 *Fiction Novel*
 
 ![A Little Life](recs/alittlelife.jpg)
@@ -9,7 +9,7 @@ I started reading this book in June 2024, and it took me a full year to finish a
 
 
 
-# ▶ *About You* — The 1975
+# ▷ *About You* — The 1975
 *Music*
 
 ![About You](recs/aboutyou.jpg)
