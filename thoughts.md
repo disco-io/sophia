@@ -1,4 +1,4 @@
-# ▷ Motivational Quote
+# ▷ Plate
 *September 8, 2025*
 
 > I can't complain about having too much on my plate when my goal was to eat.  
