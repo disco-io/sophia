@@ -16,7 +16,7 @@ Autumn is probably my favorite season, and this song always finds its way back i
 
 ![About You](recs/aboutyou.jpg)
 
-The opening instrumental is a beautiful chaos, all the sounds of a symphony colliding at once. It reminds me of the concerts I used to go to with my dad at the Kennedy Center in D.C. I often play this song on the subway or during walks, and when I do, my mind drifts through people, places, voices, faces. It helps pass the time.
+The opening instrumental is a beautiful chaos, all the sounds of a symphony colliding at once. It reminds me of the concerts I used to go to with my dad at the Kennedy Center in D.C. I often play this song on the subway or during walks, and when I do, my mind drifts through people, places, voices, faces. These memories help pass the time.
 
 > And there was something 'bout you that now I can't remember   
 > It's the same damn thing that made my heart surrender    
