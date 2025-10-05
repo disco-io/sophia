@@ -3,7 +3,7 @@
 
 ![Kingston](recs/kingston.jpg) 
 
-Autumn is probably my favorite season, and this song always finds its way back into my playlist around that time. It’s especially nice to listen to after waking in the morning, still dazed from a dream, while the air outside is crisp and the leaves are turning every shade of red and orange. I can stay warm under my blankets.
+Autumn is probably my favorite season, and this song always finds its way back into my playlist around that time. It’s especially nice to listen to after waking in the morning, still dazed from a dream, while the air outside is crisp and the leaves are turning every shade of red and orange. I can stay warm under my blankets. Maybe I'll have a warm cup of chai...
 
 > It's the thought of you that slightly scares me   
 > But it takes my breath away   
