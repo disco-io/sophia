@@ -1,3 +1,14 @@
+# ▷ *Man Is The Baby* — Antony & The Johnsons
+*Music*
+
+![Man Is The Baby](recs/manisthebaby.jpg)
+
+The desolate voice of the singer spoke for itself. I first heard this song at *Le Crazy Horse de Paris*, never expecting something so heartbreaking in that setting. As I watched the dancer’s silhouette wilt with grace, I wondered whether it was the male gaze corroding a woman’s spirit, or if fragility and sorrow are inseparable from sensuality itself.
+
+> Forgive me, let live me, set my spirit free   
+> Weakness sown, overgrown     
+> Man is the baby  
+
 # ▷ *Kingston* — Faye Webster
 *Music*
 
