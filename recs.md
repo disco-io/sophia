@@ -1,14 +1,3 @@
-# ▷ *Man Is The Baby* — Antony & The Johnsons
-*Music*
-
-![Man Is The Baby](recs/manisthebaby.jpg)
-
-The desolate voice of the singer spoke for itself. I first heard this song at *Le Crazy Horse de Paris*, never expecting something so heartbreaking in that setting. As I watched the dancer’s silhouette wilt with grace, I wondered whether it was the male gaze corroding a woman’s spirit, or if fragility and sorrow are inseparable from sensuality itself.
-
-> Forgive me, let live me, set my spirit free   
-> Weakness sown, overgrown     
-> Man is the baby  
-
 # ▷ *Kingston* — Faye Webster
 *Music*
 
@@ -58,3 +47,14 @@ Dreams are a strange thing. You’re supposed to be at rest while you sleep, yet
 I started reading this book in June 2024, and it took me a full year to finish all 814 pages. Looking back, I realize it was because I was savoring the story. I’ve always appreciated long books, since they let you follow a character’s entire life. There’s something beautiful about witnessing how much life shifts over time, so much that it feels as if you’ve lived multiple lifetimes within a single one. Yet even as everything changes, a few people remain with you through it all. And sometimes, that’s all you need.
 
 > “Life rearranges itself to compensate for your loss, sometimes wonderfully.”
+
+# ▷ *Man Is The Baby* — Antony & The Johnsons
+*Music*
+
+![Man Is The Baby](recs/manisthebaby.jpg)
+
+The desolate voice of the singer spoke for itself. I first heard this song at *Le Crazy Horse de Paris*, never expecting something so heartbreaking in that setting. As I watched the dancer’s silhouette wilt with grace, I wondered whether it was the male gaze corroding a woman’s spirit, or if fragility and sorrow are inseparable from sensuality itself.
+
+> Forgive me, let live me, set my spirit free   
+> Weakness sown, overgrown     
+> Man is the baby  
