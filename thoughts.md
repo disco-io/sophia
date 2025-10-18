@@ -1,3 +1,9 @@
+# ▷ Ballroom
+*October 11, 2025*
+
+My first ballroom competition was incredible! Although I was quite the jitterbug, I had so much fun dancing on the floor and never stopped smiling (even during the tango, when I should've been more pokerfaced...) Watching the higher-level dancers was mesmerizing; they seemed to be communicating in a language I’m only beginning to understand.<br><br>
+*11 is also my lucky number, and something special always seems to happen on the 11th of every month! This year alone, my birthday, graduation, first ballroom competition, college day, and more all fell on the 11th~*
+
 # ▷ Plate
 *September 8, 2025*
 
