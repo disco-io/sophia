@@ -1,3 +1,15 @@
+# ▷ *Silk Chiffon* — MUNA, Phoebe Bridgers
+*Music*
+
+![Silk Chiffon](recs/silkchiffon.jpg) 
+
+Around October the sun gets a little gentler, and I just love to bask under it, warmth and smile on my face. This song is one of 
+
+> Like life's so fun, life's so fun  
+> Got my miniskirt and rollerblades on   
+> Bag on my side cause I'm out til dawn   
+> Keeping it light like silk chiffon  
+
 # ▷ *Kingston* — Faye Webster
 *Music*
 
@@ -48,7 +60,7 @@ I started reading this book in June 2024, and it took me a full year to finish a
 
 > “Life rearranges itself to compensate for your loss, sometimes wonderfully.”
 
-# ▷ *Man Is The Baby* — Antony & The Johnsons
+# ▷ *Man Is The Baby* — Antony
 *Music*
 
 ![Man Is The Baby](recs/manisthebaby.jpg)

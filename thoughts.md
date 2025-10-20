@@ -1,3 +1,9 @@
+# ▷ "I ___ you, So"
+*October 19, 2025*
+
+Since Sophia is a pretty popular name, some people call me by my nicknames: Soso, So, or Sophi. Coincidentally, so many songs use the “I ___ you so” phrasing in their lyrics. For example: *I Love You So* by The Walters; *I Miss You So* by MINOVA; "You know I love you, So" from *Yellow* by Coldplay; and more...<br><br>
+Whenever I hear such lyrics, they feel a little more personal, like the song is calling out to me by name. :)
+
 # ▷ Ballroom
 *October 11, 2025*
 
