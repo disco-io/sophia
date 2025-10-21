@@ -1,3 +1,28 @@
+# ▷ *Metamorfoseis* — Matina Sous Peau
+*Music*
+
+![Metamorfoseis](recs/metamorfoseis.jpg) 
+"I who change face and form in any minute I'll be gone." We can change so much that the self from a few years ago might hardly recognize the self of today. Metamorphosis is gradual, and it’s often hard to notice until you step back and see yourself from an outside angle. Yet at our core, we remain mostly the same. Our hearts still drawn to the same comforts, sometimes even the same people.
+
+
+> Υπάρχεις μόνο εσύ δυο φίλοι κι η μουσική     
+> *There is only you, a couple of friends and music*     
+> που την καρδιά μου ξέρουν   
+> *That understand my heart*
+
+# ▷ *Italo Disco* — Last Dinosaurs
+*Music*
+
+![Italo Disco](recs/italodisco.jpg) 
+
+In my early teens, this was the song I listened to most. Now, hearing it again as a young adult, I’m hit with a deep sense of nostalgia. So much time has passed since my first listen, and the lyrics feel different now. I’ve crossed paths with many people- some who became my closest friends, others who remained strangers, and some who now exist only in memory. 
+
+> And when I think   
+> Of everything that we did together   
+> Somewhere in Verona   
+> The sun set over our time together   
+
+
 # ▷ *Kingston* — Faye Webster
 *Music*
 
