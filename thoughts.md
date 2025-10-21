@@ -1,13 +1,13 @@
 # ▷ "I ___ you, So"
 *October 19, 2025*
 
-Since Sophia is a pretty popular name, some people call me by my nicknames: Soso, So, or Sophi. Coincidentally, so many songs use the “I ___ you so” phrasing in their lyrics. For example: *I Love You So* by The Walters; *I Miss You So* by MINOVA; "You know I love you, So" from *Yellow* by Coldplay; and more...<br><br>
+Since Sophia is a pretty popular name, some people call me by my nicknames: Soso, So, or Sophi. Coincidentally, so many songs use the “I ___ you so” phrasing in their lyrics. For example: *I Love You So* by The Walters; *I Miss You So* by MINOVA; "You know I love you So" from *Yellow* by Coldplay; and more...<br><br>
 Whenever I hear such lyrics, they feel a little more personal, like the song is calling out to me by name. :)
 
 # ▷ Ballroom
 *October 11, 2025*
 
-My first ballroom competition was incredible! Although I was quite the jitterbug, I had so much fun dancing on the floor and never stopped smiling (even during the tango, when I should've been more pokerfaced...) Watching the higher-level dancers was mesmerizing; they seemed to be communicating in a language I’m only beginning to understand.<br><br>
+My first ballroom competition was so fun! Although I was quite the jitterbug, I had so much fun dancing on the floor and never stopped smiling (even during the tango, when I should've been more pokerfaced...) Watching the higher-level dancers was mesmerizing; they seemed to be communicating in a language I’m only beginning to understand.<br><br>
 *11 is also my lucky number, and something special always seems to happen on the 11th of every month! This year alone, my birthday, graduation, first ballroom competition, college day, and more all fell on the 11th~*
 
 # ▷ Plate
