@@ -1,3 +1,12 @@
+# ▷ *The Theory of Everything*
+*Movie*
+
+![The Theory of Everything](recs/theoryofeverything.jpg) 
+A heart to care for the intellectual; a mind to nourish the carer. No single person can encapsulate everything, so we seek in others what we ourselves lack. And if one person cannot give us all we need, do we continue searching elsewhere? Or should we rewind our memories to a time when it felt like we already had everything? Eventually, the physical body will falter, some sooner than others, fighting against science and time. But maybe it is love that can transcend it all.
+
+
+> "Wind back the clock..."  
+
 # ▷ *Metamorfoseis* — Matina Sous Peau
 *Music*
 
@@ -21,6 +30,7 @@ In my early teens, this was the song I listened to most. Now, hearing it again a
 > Of everything that we did together   
 > Somewhere in Verona   
 > The sun set over our time together   
+
 
 
 # ▷ *Kingston* — Faye Webster
