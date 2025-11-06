@@ -1,11 +1,11 @@
-# ▷ *The Theory of Everything*
-*Movie*
+# ▷ *Never Let Me Go* — Kazuo Ishiguro
+*Book*
 
-![The Theory of Everything](recs/theoryofeverything.jpg) 
-A heart to care for the intellectual; a mind to nourish the carer. No single person can encapsulate everything, so we seek in others what we ourselves lack. And if one person cannot give us all we need, do we continue searching elsewhere? Or should we rewind our memories to a time when it felt like we already had everything? Eventually, the physical body will falter, some sooner than others, fighting against science and time. But maybe it is love that can transcend it all.
+![Never Let Me Go](recs/neverletmego.jpg) 
+This book holds a special place in my heart, as it was the first novel I studied in college. We’ll probably never return to a world before AI. It’s already transformed everything, and people are starting to lose the ability to think independently without its help. It makes me wonder if, we’re actually moving backward as a society, even as we claim technology defines how advanced we’ve become. What can we do now to keep ourselves from becoming the very dystopian society that literature has warned us about time and time again?
 
 
-> "Wind back the clock..."  
+> How can you ask such a world to put away that cure, to go back to the dark days? There was no going back.      
 
 # ▷ *Metamorfoseis* — Matina Sous Peau
 *Music*
@@ -18,6 +18,17 @@ A heart to care for the intellectual; a mind to nourish the carer. No single per
 > *There is only you, a couple of friends and music*     
 > που την καρδιά μου ξέρουν   
 > *That understand my heart*
+
+# ▷ *The Theory of Everything*
+
+*Movie*
+
+![The Theory of Everything](recs/theoryofeverything.jpg) 
+A heart to care for the intellectual; a mind to nourish the carer. No single person can encapsulate everything, so we seek in others what we ourselves lack. And if one person cannot give us all we need, do we continue searching elsewhere? Or should we rewind our memories to a time when it felt like we already had everything? Eventually, the physical body will falter, some sooner than others, fighting against science and time. But maybe it is love that can transcend it all.
+
+
+> "Wind back the clock..."  
+
 
 # ▷ *Italo Disco* — Last Dinosaurs
 *Music*
