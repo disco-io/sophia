@@ -1,5 +1,5 @@
 # ▷ *Never Let Me Go* — Kazuo Ishiguro
-*Book*
+*Science Fiction Novel*
 
 ![Never Let Me Go](recs/neverletmego.jpg) 
 This book holds a special place in my heart, as it was the first novel I studied in college. We’ll probably never return to a world before AI. It’s already transformed everything, and people are starting to lose the ability to think independently without its help. It makes me wonder if, we’re actually moving backward as a society, even as we claim technology defines how advanced we’ve become. What can we do now to keep ourselves from becoming the very dystopian society that literature has warned us about time and time again?
