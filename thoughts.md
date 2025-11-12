@@ -10,16 +10,16 @@ and when we left late august
 the house fell quiet  
 the pianos gathered dust  
 <br>
-now only my parents’ murmurs remain  
+now only my parents’ whispers remain  
 coffee at nine instead of seven  
-afternoon tea steeped in sunlight  
+afternoon tea bathed in sunlight  
 two empty chairs, fewer pastries  
-no doors slamming  
-no footsteps on the stairs  
+no more slamming doors  
+no more footsteps on the stairs  
 <br>
-and when we’re back  
-to us it’ll feel like we never left  
-but to them  
+and when we return
+for us it’ll feel like we never left  
+but for them  
 they’ll remember how quiet it felt
 
 # ▷ "I ___ you, So"
