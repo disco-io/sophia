@@ -1,6 +1,6 @@
 # ▷ empty nesters
 *November 7, 2025*
-sweet melody of chopin   
+gentle melody of chopin   
 clashing with rachmaninoff’s storm  
 my piano in the study, my sister’s in the den  
 our music once filled every hallway  
@@ -17,7 +17,7 @@ two empty chairs, fewer pastries
 no more slamming doors  
 no more footsteps on the stairs  
 <br>
-and when we return
+and when we return  
 for us it’ll feel like we never left  
 but for them  
 they’ll remember how quiet it felt
