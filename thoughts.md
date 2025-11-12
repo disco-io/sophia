@@ -1,3 +1,27 @@
+# ▷ empty nesters
+*November 7, 2025*
+sweet melody of chopin   
+clashing with rachmaninoff’s storm  
+my piano in the study, my sister’s in the den  
+our music once filled every hallway  
+the house alive with sound  
+<br>
+and when we left late august   
+the house fell quiet  
+the pianos gathered dust  
+<br>
+now only my parents’ murmurs remain  
+coffee at nine instead of seven  
+afternoon tea steeped in sunlight  
+two empty chairs, fewer pastries  
+no doors slamming  
+no footsteps on the stairs  
+<br>
+and when we’re back  
+to us it’ll feel like we never left  
+but to them  
+they’ll remember how quiet it felt
+
 # ▷ "I ___ you, So"
 *October 19, 2025*
 

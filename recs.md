@@ -1,12 +1,3 @@
-# ▷ *Never Let Me Go* — Kazuo Ishiguro
-*Science Fiction Novel*
-
-![Never Let Me Go](recs/neverletmego.jpg) 
-This book holds a special place in my heart, as it was the first novel I studied in college. We’ll probably never return to a world before AI. It’s already transformed everything, and people are starting to lose the ability to think independently without its help. It makes me wonder if, we’re actually moving backward as a society, even as we claim technology defines how advanced we’ve become. What can we do now to keep ourselves from becoming the very dystopian society that literature has warned us about time and time again?
-
-
-> How can you ask such a world to put away that cure, to go back to the dark days? There was no going back.      
-
 # ▷ *Metamorfoseis* — Matina Sous Peau
 *Music*
 
@@ -18,6 +9,15 @@ This book holds a special place in my heart, as it was the first novel I studied
 > *There is only you, a couple of friends and music*     
 > που την καρδιά μου ξέρουν   
 > *That understand my heart*
+
+# ▷ *Never Let Me Go* — Kazuo Ishiguro
+*Science Fiction Novel*
+
+![Never Let Me Go](recs/neverletmego.jpg) 
+This book holds a special place in my heart, as it was the first novel I studied in college. We’ll probably never return to a world before AI. It’s already transformed everything, and people are starting to lose the ability to think independently without its help. It makes me wonder if, we’re actually moving backward as a society, even as we claim technology defines how advanced we’ve become. What can we do now to keep ourselves from becoming the very dystopian society that literature has warned us about time and time again?
+
+
+> How can you ask such a world to put away that cure, to go back to the dark days? There was no going back.      
 
 # ▷ *The Theory of Everything*
 
