@@ -16,7 +16,8 @@
 ![Loving Machine](recs/lovingmachine.jpg) 
 AI love is so pathetic. The beauty of human love lies in the fact that we fight to make things work. To forgive each other over and over, to accept someone with flaws whom you love anyway, because we’re all human. So to just be handed a commercial product tailored to your preferences? I’d hardly call that love, because you didn’t even try. But then again, how far can we delude ourselves into believing there’s no difference? If your lover is made of bolts and screws and mine of flesh and bone, what difference does it make if the feeling is the same?
 
-> When he gets obsolete, she can always just throw him away       
+> When he gets obsolete  
+> She can always just throw him away       
 > And get a new one, but that's ok, she'll love him the same     
 > As her fabulous loving machine     
 
