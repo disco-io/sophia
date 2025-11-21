@@ -1,3 +1,9 @@
+# ▷ Sick
+*November 20, 2025*
+
+How fortunate I am to have friends who will brave the cold to buy me medicine, or who offer to bring snacks and tea to my room when I’m sick. They’re by no means obligated to, yet they still do it out of the kindness of their hearts. I’m so grateful to be surrounded by friends who care for me like that <3
+
+
 # ▷ empty nesters
 *November 7, 2025*
 gentle melody of chopin   
