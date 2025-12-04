@@ -1,3 +1,22 @@
+# ▷ re-encounter
+*December 4, 2025*
+we've been here before  
+we've met here before  
+we promised to remember  
+yet still forgot each time  
+and once we're back the search begins  
+to find the long way home  
+but in the end we always do :)  
+<br>
+your eyes a different color  
+but that look always the same  
+it's the only reminder needed  
+before i miss it once again  
+so how was i supposed to know  
+to follow it, to see it through?  
+
+
+
 # ▷ Sick
 *November 20, 2025*
 
