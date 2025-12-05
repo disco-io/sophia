@@ -6,8 +6,8 @@ we promised to remember
 yet still forgot each time  
 and once we're back the search begins  
 to find the long way home  
-but in the end we always do 
-inevitably you :)
+but in the end we always do   
+inevitably you :)   
 <br>
 your eyes a different color  
 but that look always the same  
@@ -15,7 +15,6 @@ it's the only reminder needed
 before i miss it once again  
 so how was i supposed to know  
 to follow it, to see it through?  
-
 
 
 # ▷ Sick
