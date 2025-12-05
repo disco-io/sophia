@@ -6,7 +6,8 @@ we promised to remember
 yet still forgot each time  
 and once we're back the search begins  
 to find the long way home  
-but in the end we always do :)  
+but in the end we always do 
+inevitably you :)
 <br>
 your eyes a different color  
 but that look always the same  
