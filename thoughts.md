@@ -1,3 +1,15 @@
+# ⚲ clouds
+*December 12, 2025*
+pillows of white drifting without care  
+soft edges catching sunlight and air  
+when you hold back tears with strain  
+the clouds grow dense with rain  
+your brainstorms turn my whole world dim  
+nimbus clouds cover my sun so grim  
+if i reach for them i’ll only fall through  
+the clouds they’ll always keep me from you
+
+
 # ⚲ 𑣲₍ ᐢ. .ᐢ₎ ⊹ ࣪ ˖
 *December 9, 2025*
 Alice followed the white rabbit to Wonderland. Neo followed the white rabbit into the Matrix. In each of our own lives, we too have an invisible white rabbit that we choose to follow every day. And in doing so, we race down winding paths, pass bewildering landscapes, hop over obstacles, and travel through changing vistas. But how do we know we’re not chasing the wrong rabbit? We don’t know the destination it’s leading us toward, or whether we’ll be happy once we arrive. What if we realize too late, when we’re already too far down the rabbit hole?<br><br>
