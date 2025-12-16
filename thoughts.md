@@ -7,12 +7,11 @@ a whole universe behind eyelids unfurled
 where lovers waltz beneath my lashes  
 where afterimages pass by in flashes  
 where my iris drowns in consolations   
-where my pupils dance with constellations   
+where my pupils dance beneath constellations   
 one turn and eyes flutter into sight  
 fragile visions spill into the light  
 retreating softly before the break of day  
 nothing i can do to make them stay
-
 
 # ⚲ 𑣲₍ ᐢ. .ᐢ₎ ⊹ ࣪ ˖
 *December 9, 2025*
@@ -38,7 +37,7 @@ soft edges catching sunlight and air
 when you hold back tears with strain  
 the clouds grow dense with rain  
 your brainstorms turn my whole world dim  
-nimbus clouds cover my sun so grim  
+nimbus clouds veiling my sun so grim  
 if i reach for them i’ll only fall through  
 the clouds they’ll always keep me from you
 
