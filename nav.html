@@ -1,7 +1,9 @@
 <nav>
     <a href="/thoughts/">Thoughts</a>
     <a href="/recs/">Recs</a>
+    <a href="/code/">Code</a>
     <a href="/">Sophia</a>
+    <a href="/resume/">Resume</a>
     <a href="/list100/">List100</a>
     <a href="/social/">Social</a>
 </nav>
@@ -46,7 +48,6 @@
         text-transform: uppercase;
     }
 
-
     nav a:hover {
         color: #ffdcd5;
         background-color: #787f17;
@@ -67,17 +68,18 @@
             justify-content: flex-start;
         }
 
-        nav a[href="index.html"] {
+        nav a[href="/"] {
+            order: -1;
             font-size: 2rem;
         }
 
-        nav a:not([href="index.html"]) {
+        nav a:not([href="/"]) {
+            order: 0;
             font-size: 1rem;
         }
 
         body {
             padding-top: 60px;
-
         }
     }
 </style>
