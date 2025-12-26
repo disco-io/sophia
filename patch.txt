@@ -1,1 +1,0 @@
-navbar to show up on all tabs
