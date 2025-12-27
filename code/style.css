@@ -1,0 +1,335 @@
+    nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #ffdcd5;
+        padding: 20px 0;
+        gap: 40px;
+        box-sizing: border-box;
+        z-index: 1000;
+        overflow-x: auto;
+        white-space: nowrap;
+        -webkit-overflow-scrolling: touch;
+    }
+
+    nav a {
+        color: #787f17;
+        text-decoration: none;
+        transition: all 0.3s ease;
+        padding: 8px 12px;
+        border-radius: 8px;
+        flex: 0 0 auto;
+    }
+
+    nav a[href="/"] {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 50px;
+    }
+
+    nav a:not([href="/"]) {
+        font-family: "Courier New", Courier, monospace;
+        font-size: 25px;
+        text-transform: lowercase;
+    }
+
+    nav a:hover {
+        color: #ffdcd5;
+        background-color: #787f17;
+        border-radius: 0;
+        text-decoration: none;
+        padding: 8px 12px;
+    }
+
+    body {
+        margin: 0;
+        padding-top: 100px;
+    }
+
+    @media (max-width: 768px) {
+        nav {
+            padding: 12px 0;
+            gap: 20px;
+            justify-content: flex-start;
+        }
+
+        nav a[href="/"] {
+            order: 0;
+            font-size: 2rem;
+        }
+
+        nav a[href="/recs/"] {
+            order: 1;
+            font-size: 1rem;
+        }
+
+        nav a[href="/code/"] {
+            order: 2;
+            font-size: 1rem;
+        }
+
+        nav a[href="/thoughts/"] {
+            order: 3;
+            font-size: 1rem;
+        }
+
+        nav a[href="/resume/"] {
+            order: 4;
+            font-size: 1rem;
+        }
+
+        nav a[href="/list100/"] {
+            order: 5;
+            font-size: 1rem;
+        }
+
+        nav a[href="/social/"] {
+            order: 6;
+            font-size: 1rem;
+        }
+
+        body {
+            padding-top: 60px;
+        }
+    }
+
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        font-family: 'Press Start 2P', monospace;
+        background: #f3efdd;
+        color: #787f17;
+        overflow-x: hidden;
+    }
+
+    .screen {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 28px;
+        background: #f3efdd;
+        z-index: 9999;
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    .loading-text {
+        font-size: 16px;
+        color: #787f17;
+        letter-spacing: 2px;
+        animation: flicker 1.6s infinite;
+    }
+
+    .loading-sub {
+        font-size: 10px;
+        opacity: 0.6;
+    }
+
+    .memory-bar {
+        font-size: 18px;
+        letter-spacing: 6px;
+    }
+
+    .memory-bar span {
+        opacity: 0.2;
+        color: #e6a3a3;
+        animation: fill 2.8s steps(1) forwards;
+    }
+
+    .memory-bar span:nth-child(1) {
+        animation-delay: 0s;
+    }
+
+    .memory-bar span:nth-child(2) {
+        animation-delay: 0.2s;
+    }
+
+    .memory-bar span:nth-child(3) {
+        animation-delay: 0.4s;
+    }
+
+    .memory-bar span:nth-child(4) {
+        animation-delay: 0.6s;
+    }
+
+    .memory-bar span:nth-child(5) {
+        animation-delay: 0.8s;
+    }
+
+    .memory-bar span:nth-child(6) {
+        animation-delay: 1s;
+    }
+
+    .memory-bar span:nth-child(7) {
+        animation-delay: 1.2s;
+    }
+
+    .memory-bar span:nth-child(8) {
+        animation-delay: 1.4s;
+    }
+
+    .memory-bar span:nth-child(9) {
+        animation-delay: 1.6s;
+    }
+
+    .memory-bar span:nth-child(10) {
+        animation-delay: 1.8s;
+    }
+
+    .memory-bar span:nth-child(11) {
+        animation-delay: 2s;
+    }
+
+    .memory-bar span:nth-child(12) {
+        animation-delay: 2.2s;
+    }
+
+    .memory-bar span:nth-child(13) {
+        animation-delay: 2.4s;
+    }
+
+    .memory-bar span:nth-child(14) {
+        animation-delay: 2.6s;
+    }
+
+    @keyframes fill {
+        to {
+            opacity: 1;
+        }
+    }
+
+    @keyframes flicker {
+
+        0%,
+        100% {
+            opacity: 1;
+        }
+
+        50% {
+            opacity: 0.75;
+        }
+    }
+
+    #main {
+
+        padding: 80px;
+        min-height: 100vh;
+    }
+
+    .project-card {
+        max-width: 520px;
+        border: 2px solid #787f17;
+        padding: 32px;
+        border-radius: 10px;
+        margin-bottom: 2rem;
+        cursor: pointer;
+        background-color: #f3efdd;
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .project-card:hover {
+        transform: scale(1.02);
+        box-shadow: 0 8px 20px rgba(120, 127, 23, 0.3);
+    }
+
+    .project-title {
+        font-size: 1.1rem;
+        color: #e6a3a3;
+        margin-bottom: 0.5rem;
+    }
+
+    .project-desc,
+    .modal-text {
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        font-size: 0.9rem;
+        line-height: 1.5;
+        color: #787f17;
+    }
+
+    .project-meta {
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: bold;
+        font-size: 0.9rem;
+        line-height: 1.5;
+        color: #b8bb7e;
+    }
+
+    .github-link {
+        display: inline-flex;
+        align-items: center;
+        font-size: 0.85rem;
+        color: rgb(205, 126, 126);
+        text-decoration: none;
+        margin-top: 0.3rem;
+    }
+
+    .github-img {
+        width: 18px;
+        height: 18px;
+        margin-right: 0.4rem;
+    }
+
+    .github-link:hover {
+        color: rgb(215, 159, 159);
+    }
+
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.6);
+        padding-top: 60px;
+    }
+
+    .modal-content {
+        background-color: #f3efdd;
+        margin: 5% auto;
+        padding: 2rem;
+        border: 2px solid #787f17;
+        max-width: 600px;
+        border-radius: 10px;
+        position: relative;
+    }
+
+    .close-btn {
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        font-size: 28px;
+        font-weight: bold;
+        cursor: pointer;
+        color: #929926;
+    }
+
+    .close-btn:hover {
+        color: #bbc534;
+    }
+
+    .modal-title {
+        font-size: 1.2rem;
+        color: #e6a3a3;
+        margin-bottom: 1rem;
+    }
+
+    .modal-text {
+        font-size: 0.85rem;
+        color: #8f9630;
+        line-height: 1.5;
+    }
