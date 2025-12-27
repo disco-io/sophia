@@ -1,0 +1,9 @@
+code tab:
+switch everything to night mode
+loading screen...
+pixelated text
+github pfp
+projects displayed
+cd ../ to return home
+animated scroll for resume
+change text color for resume

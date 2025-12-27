@@ -18,8 +18,10 @@
             padding: 40px 24px 80px;
             font-family: Optima, sans-serif;
             line-height: 1.65;
-            color: #222;
+            color: #4e4e4e;
         }
+
+
 
         h1 {
             font-family: Georgia, serif;
@@ -94,27 +96,29 @@
 
         .pub-fat-button {
             display: block;
-            padding: 26px 32px;
-            border-radius: 100px;
-            background: linear-gradient(135deg, #787f17, #9aa23b);
-            color: #f3efdd;
+            padding: 20px 24px;
+            border-radius: 8px;
+            border: 1.5px solid #787f17;
+            background: transparent;
+            color: inherit;
             text-decoration: none;
-            box-shadow: 0 12px 30px rgba(120, 127, 23, 0.25);
-            transition: all 0.25s ease;
             margin-top: 1rem;
+            transition: border-color 0.2s ease, background-color 0.2s ease;
         }
 
         .pub-fat-button:hover {
-            transform: translateY(-4px) scale(1.01);
-            box-shadow: 0 18px 40px rgba(120, 127, 23, 0.35);
+            border-color: #787f17;
+            background-color: rgba(120, 127, 23, 0.04);
         }
 
-        .pub-main {
+        s .pub-main {
             display: block;
             font-family: Georgia, serif;
             font-size: 1.15rem;
             font-weight: bold;
             letter-spacing: 0.3px;
+            color: #787f17;
+
         }
 
         .pub-sub {
@@ -147,7 +151,7 @@
 
             <div class="entry">
                 <div class="entry-header">
-                    <span>Thomas Jefferson High School for Science and Technology</span>
+                    <span>Thomas Jefferson HS for Science and Technology</span>
                     <span>2021 — 2025</span>
                 </div>
                 <div class="entry-sub">HS GPA: 4.50 (Weighted)</div>
@@ -208,7 +212,7 @@
                     <li>Researching Color Quantization of CIFAR-10 Image Dataset for
                         Image Classification using Convolutional Neural Networks.</li>
                     <li>Applying k-means Vector Quantization & Dithering algorithms to
-                        image inputs to reduce computational load of AI object recognition..</li>
+                        image inputs to reduce computational load of AI object recognition.</li>
                 </ul>
             </div>
 
