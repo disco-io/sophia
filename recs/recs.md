@@ -10,18 +10,14 @@
 > που την καρδιά μου ξέρουν   
 > *That understand my heart*
 
-
-# ⚲ *My Love Mine All Mine* — Mitski
+# ⚲ *Inventing* — Matilda Mann
 *Music*
 
-![My Love Mine All Mine](covers/mylovemineallmine.jpg) 
-The moon doesn’t belong to anyone, yet everyone feels a private claim to it. Lovers swear to it, lonely people confide in it, travelers use it to remember home. We’re comforted by the idea that the moon belongs to all of us, that across any distance or separation, we can all look up and find the same light in the night sky. Against the moon’s age, our lives seem so transient, but maybe that’s why we look up to it. If our hearts can’t last, perhaps the act of offering them can. 
+![Inventing](covers/inventing.jpg) 
+For some reason, this song reminds me of Barnard. :) One semester down, and I’ve already seen so many smart, beautiful, inspiring young women doing all sorts of incredible things. So loving, so creative, constantly inventing, tinkering, writing, designing. Always on the go, always improving. And what a gift it is to be surrounded by such contagious energy!
 
-
-> Here before and after me, shinin' down on me  
-> Moon, tell me if I could send up my heart to you?   
-> So when I die, which I must do  
-> Could it shine down here with you?  
+> Love is just too weak of a word  
+> I've gotta get inventing, something's gotta hit it     
 
 # ▷ *Loving Machine* — TV Girl
 *Music*
@@ -34,6 +30,18 @@ AI love is quite sad. The beauty of human love lies in the fact that we fight to
 > And get a new one, but that's ok, she'll love him the same     
 > As her fabulous loving machine     
 
+
+# ▷ *My Love Mine All Mine* — Mitski
+*Music*
+
+![My Love Mine All Mine](covers/mylovemineallmine.jpg) 
+The moon doesn’t belong to anyone, yet everyone feels a private claim to it. Lovers swear to it, lonely people confide in it, travelers use it to remember home. We’re comforted by the idea that the moon belongs to all of us, that across any distance or separation, we can all look up and find the same light in the night sky. Against the moon’s age, our lives seem so transient, but maybe that’s why we look up to it. If our hearts can’t last, perhaps the act of offering them can. 
+
+
+> Here before and after me, shinin' down on me  
+> Moon, tell me if I could send up my heart to you?   
+> So when I die, which I must do  
+> Could it shine down here with you?  
 
 # ▷ *Never Let Me Go* — Kazuo Ishiguro
 *Science Fiction Novel*
