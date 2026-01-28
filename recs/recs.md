@@ -10,7 +10,7 @@
 > που την καρδιά μου ξέρουν   
 > *That understand my heart*
 
-# ⚲ *Inventing* — Matilda Mann
+# ▷ *Inventing* — Matilda Mann
 *Music*
 
 ![Inventing](covers/inventing.jpg) 

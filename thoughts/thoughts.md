@@ -1,4 +1,23 @@
-# ⚲ nightvisions
+# ⚲ chameleon
+*January 27, 2026*
+at the door, i lose my skin  
+paper-thin, i fold within  
+a borrowed shade i settle in  
+call it growth, disguise the spin  
+in this new life i will begin  
+to steal her colors, wear her skin  
+study "how to: feminine"  
+and master her discipline  
+only then this game i'll win  
+only then you'll let me in  
+
+# ⚲ 𑣲₍ ᐢ. .ᐢ₎ ⊹ ࣪ ˖
+*December 9, 2025*
+Alice followed the white rabbit to Wonderland. Neo followed the white rabbit into the Matrix. In each of our own lives, we too have an invisible white rabbit that we choose to follow every day. And in doing so, we race down winding paths, pass bewildering landscapes, hop over obstacles, and travel through changing vistas. But how do we know we’re not chasing the wrong rabbit? We don’t know the destination it’s leading us toward, or whether we’ll be happy once we arrive. What if we realize too late, when we’re already too far down the rabbit hole?<br><br>
+Everything I am today is a mosaic of the choices I’ve made. And staying committed to all of them, well, I must have had a lot of faith in the rabbit I chose to follow all those years ago. ^^ If the multiverse exists, there might even be versions of me who chased different rabbits too, and I can’t help but wonder who they became. But I can’t begin to imagine who I’d be if I hadn’t followed mine into my first computer science class, into color guard rehearsals, into that first ballroom lesson, or even all the way to New York.<br><br>
+Sometimes it feels like trying something new now would mean abandoning that rabbit entirely, leaving everything familiar behind and starting again at square one. But maybe that wouldn’t be such a bad thing. After all, life is too precious to spend standing still. We should explore as much as we can, and it’s comforting to know there are infinite rabbit holes open wide, just waiting for us to dive in. :)
+
+# ▷ nightvisions
 *December 15, 2025*
 only after candles are extinguished  
 and streets outside fall quiet, diminished  
@@ -12,12 +31,6 @@ one turn and eyes flutter into sight
 fragile visions spill into the light  
 retreating softly before the break of day  
 nothing i can do to make them stay
-
-# ⚲ 𑣲₍ ᐢ. .ᐢ₎ ⊹ ࣪ ˖
-*December 9, 2025*
-Alice followed the white rabbit to Wonderland. Neo followed the white rabbit into the Matrix. In each of our own lives, we too have an invisible white rabbit that we choose to follow every day. And in doing so, we race down winding paths, pass bewildering landscapes, hop over obstacles, and travel through changing vistas. But how do we know we’re not chasing the wrong rabbit? We don’t know the destination it’s leading us toward, or whether we’ll be happy once we arrive. What if we realize too late, when we’re already too far down the rabbit hole?<br><br>
-Everything I am today is a mosaic of the choices I’ve made. And staying committed to all of them, well, I must have had a lot of faith in the rabbit I chose to follow all those years ago. ^^ If the multiverse exists, there might even be versions of me who chased different rabbits too, and I can’t help but wonder who they became. But I can’t begin to imagine who I’d be if I hadn’t followed mine into my first computer science class, into color guard rehearsals, into that first ballroom lesson, or even all the way to New York.<br><br>
-Sometimes it feels like trying something new now would mean abandoning that rabbit entirely, leaving everything familiar behind and starting again at square one. But maybe that wouldn’t be such a bad thing. After all, life is too precious to spend standing still. We should explore as much as we can, and it’s comforting to know there are infinite rabbit holes open wide, just waiting for us to dive in. :)
 
 # ▷ one gentle proposal
 *December 13, 2025*
@@ -42,7 +55,7 @@ if i reach for them i’ll only fall through
 the clouds they’ll always keep me from you
 
 # ▷ 嗨嗨！
-*2025年12月1日*
+*2025年12月11日*
 好久没用中文了 (也忘了一点儿, 哎呀 :/ )。感觉我真的该练习用中文写写网站的文章了哈哈 ^^<br>
 ok 我今天去了图书馆, 借了一些书。希望年底前还能再完成一本! 今年我读了七本书，最喜欢的是Margaret Atwood 写的 Handmaid’s Tale. 
 
