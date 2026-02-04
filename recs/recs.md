@@ -72,7 +72,7 @@ In my early teens, this was the song I listened to most. Now, hearing it again a
 
 ![About You](covers/aboutyou.jpg)
 
-The opening instrumental is a beautiful chaos, all the sounds of a symphony colliding at once. It reminds me of the many concerts I used to attend with my dad at the Kennedy Center in D.C., when the instruments would tune before the music began, before the symphony carried you into another world. I often play this song on the subway or during walks, and when I do, my mind drifts through people, places, voices, faces. Memories resurface as I travel through vistas. These memories help pass the time.
+The opening instrumental is a beautiful chaos, all the sounds of a symphony colliding at once. It reminds me of the many concerts I used to attend with my dad at the Kennedy Center in D.C., the murky sound of instruments tuning before the music began, before the symphony carried you into another world. I often play this song on the subway or during walks, and when I do, my mind drifts through people, places, voices, faces. Memories resurface as I travel through vistas. These memories help pass the time.
 
 > And there was something 'bout you that now I can't remember   
 > It's the same damn thing that made my heart surrender    
