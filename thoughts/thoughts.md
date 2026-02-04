@@ -1,4 +1,14 @@
-# ⚲ chameleon
+# ⚲ The New Dawn
+*February 3, 2026*
+I used to believe that we are living in the “final” version of the world, that what we have now represents the maximum capacity of human ability, or that we have somehow peaked in advancement and happiness. But that has never been true, and never may be true. Paleolithic humans couldn’t have imagined a world beyond hunting elk and gathering berries, just as medieval farmers could not have envisioned satellites orbiting beyond the Earth or machines that could carry voices across oceans. Each era mistakes the limits of its imagination for the limits of possibility. But time and time again, life goes on: computers reboot and advance, buildings fall and rise, flowers grow and wilt, humans are born and die. There seems to be no end, no ceiling for our imaginations which we eventually make reality. So I remain optimistic that with this rise of technology, we'll be able to meaningfully redefine our role in society as we've done with every new era.
+
+# ⚲ 𑣲₍ ᐢ. .ᐢ₎ ⊹ ࣪ ˖
+*December 9, 2025*
+Alice followed the white rabbit to Wonderland. Neo followed the white rabbit into the Matrix. In each of our own lives, we too have an invisible white rabbit that we choose to follow every day. And in doing so, we race down winding paths, pass bewildering landscapes, hop over obstacles, and travel through changing vistas. But how do we know we’re not chasing the wrong rabbit? We don’t know the destination it’s leading us toward, or whether we’ll be happy once we arrive. What if we realize too late, when we’re already too far down the rabbit hole?<br><br>
+Everything I am today is a mosaic of the choices I’ve made. And staying committed to all of them, well, I must have had a lot of faith in the rabbit I chose to follow all those years ago. ^^ If the multiverse exists, there might even be versions of me who chased different rabbits too, and I can’t help but wonder who they became. But I can’t begin to imagine who I’d be if I hadn’t followed mine into my first computer science class, into color guard rehearsals, into that first ballroom lesson, or even all the way to New York.<br><br>
+Sometimes it feels like trying something new now would mean abandoning that rabbit entirely, leaving everything familiar behind and starting again at square one. But maybe that wouldn’t be such a bad thing. After all, life is too precious to spend standing still. We should explore as much as we can, and it’s comforting to know there are infinite rabbit holes open wide, just waiting for us to dive in. :)
+
+# ▷ chameleon
 *January 27, 2026*
 at the door, i lose my skin  
 paper-thin, i fold within  
@@ -10,12 +20,6 @@ study "how to: feminine"
 and master her discipline  
 only then this game i'll win  
 only then you'll let me in  
-
-# ⚲ 𑣲₍ ᐢ. .ᐢ₎ ⊹ ࣪ ˖
-*December 9, 2025*
-Alice followed the white rabbit to Wonderland. Neo followed the white rabbit into the Matrix. In each of our own lives, we too have an invisible white rabbit that we choose to follow every day. And in doing so, we race down winding paths, pass bewildering landscapes, hop over obstacles, and travel through changing vistas. But how do we know we’re not chasing the wrong rabbit? We don’t know the destination it’s leading us toward, or whether we’ll be happy once we arrive. What if we realize too late, when we’re already too far down the rabbit hole?<br><br>
-Everything I am today is a mosaic of the choices I’ve made. And staying committed to all of them, well, I must have had a lot of faith in the rabbit I chose to follow all those years ago. ^^ If the multiverse exists, there might even be versions of me who chased different rabbits too, and I can’t help but wonder who they became. But I can’t begin to imagine who I’d be if I hadn’t followed mine into my first computer science class, into color guard rehearsals, into that first ballroom lesson, or even all the way to New York.<br><br>
-Sometimes it feels like trying something new now would mean abandoning that rabbit entirely, leaving everything familiar behind and starting again at square one. But maybe that wouldn’t be such a bad thing. After all, life is too precious to spend standing still. We should explore as much as we can, and it’s comforting to know there are infinite rabbit holes open wide, just waiting for us to dive in. :)
 
 # ▷ nightvisions
 *December 15, 2025*
@@ -34,8 +38,6 @@ nothing i can do to make them stay
 
 # ▷ proposal
 *December 13, 2025*
-to be unafraid of its depth  
-to be unavoidant of its weight  
 to be allowed into that inner world  
 to take refuge into that inner world  
 to observe the strange flowers that grow  
@@ -56,27 +58,8 @@ the clouds they’ll always keep me from you
 
 # ▷ 嗨嗨！
 *2025年12月11日*
-好久没用中文了 (也忘了一点儿, 哎呀 :/ )。感觉我真的该练习用中文写写网站的文章了哈哈 ^^<br>
+好久没用中文了 (也忘了一点儿, 哎呀 :/ )。我感觉我真的该练习用中文写写网站的文章了哈哈 ^^<br>
 ok 我今天去了图书馆, 借了一些书。希望年底前还能再完成一本! 今年我读了七本书，最喜欢的是Margaret Atwood 写的 Handmaid’s Tale. 
-
-# ▷ re-encounter
-*December 4, 2025*
-we've been here before  
-we've met here before  
-we promised to remember  
-yet still forgot each time  
-and once we're back the search begins  
-to find the long way home  
-but in the end we always do   
-inevitably you :)   
-<br>
-your eyes a different color  
-but that look always the same  
-it's the only reminder needed  
-before i miss it once again  
-so how was i supposed to know  
-to follow it, to see it through?  
-
 
 # ▷ Sick
 *November 20, 2025*
