@@ -10,6 +10,17 @@
 > που την καρδιά μου ξέρουν   
 > *That understand my heart*
 
+# ▷ *Man Is The Baby* — Antony
+*Music*
+
+![Man Is The Baby](covers/manisthebaby.jpg)
+
+Can I be forgiven? Can I start over? Where did it all go wrong? We carry so much shame for our mistakes, as if we should have known better all along. But it is, after all, our first time living. Even adults, at their core, are still children. Faults are inevitable, for we cannot always see what lies ahead. We expect ourselves to move through life like experts, when in truth we are all beginners. Like infants, we reach for things we don’t understand and cry out when the world overwhelms us. We dress ourselves in confidence and call it maturity, but beneath it we are still tender, still afraid, still learning how to move forward without falling.
+
+> Forgive me, let live me, set my spirit free   
+> Weakness sown, overgrown     
+> Man is the baby  
+
 # ▷ *Inventing* — Matilda Mann
 *Music*
 
@@ -30,18 +41,6 @@ AI love is quite sad. The beauty of human love lies in the fact that we fight to
 > And get a new one, but that's ok, she'll love him the same     
 > As her fabulous loving machine     
 
-
-# ▷ *My Love Mine All Mine* — Mitski
-*Music*
-
-![My Love Mine All Mine](covers/mylovemineallmine.jpg) 
-The moon doesn’t belong to anyone, yet everyone feels a private claim to it. Lovers swear to it, lonely people confide in it, travelers use it to remember home. We’re comforted by the idea that the moon belongs to all of us, that across any distance or separation, we can all look up and find the same light in the night sky. Against the moon’s age, our lives seem so transient, but maybe that’s why we look up to it. If our hearts can’t last, perhaps the act of offering them can. 
-
-
-> Here before and after me, shinin' down on me  
-> Moon, tell me if I could send up my heart to you?   
-> So when I die, which I must do  
-> Could it shine down here with you?  
 
 # ▷ *The Theory of Everything*
 
@@ -73,7 +72,7 @@ In my early teens, this was the song I listened to most. Now, hearing it again a
 
 ![About You](covers/aboutyou.jpg)
 
-The opening instrumental is a beautiful chaos, all the sounds of a symphony colliding at once. It reminds me of the concerts I used to go to with my dad at the Kennedy Center in D.C. I often play this song on the subway or during walks, and when I do, my mind drifts through people, places, voices, faces. These memories help pass the time.
+The opening instrumental is a beautiful chaos, all the sounds of a symphony colliding at once. It reminds me of the many concerts I used to attend with my dad at the Kennedy Center in D.C., when the instruments would tune before the music began, before the symphony carried you into another world. I often play this song on the subway or during walks, and when I do, my mind drifts through people, places, voices, faces. Memories resurface as I travel through vistas. These memories help pass the time.
 
 > And there was something 'bout you that now I can't remember   
 > It's the same damn thing that made my heart surrender    
@@ -103,13 +102,14 @@ I started reading this book in June 2024, and it took me a full year to finish a
 
 > “Life rearranges itself to compensate for your loss, sometimes wonderfully.”
 
-# ▷ *Man Is The Baby* — Antony
+# ▷ *My Love Mine All Mine* — Mitski
 *Music*
 
-![Man Is The Baby](covers/manisthebaby.jpg)
+![My Love Mine All Mine](covers/mylovemineallmine.jpg) 
+The moon doesn’t belong to anyone, yet everyone feels a private claim to it. Lovers swear to it, lonely people confide in it, travelers use it to remember home. We’re comforted by the idea that the moon belongs to all of us, that across any distance or separation, we can all look up and find the same light in the night sky. Against the moon’s age, our lives seem so transient, but maybe that’s why we look up to it. If our hearts can’t last, perhaps the act of offering them can. 
 
-The desolate voice of the singer spoke for itself. I first heard this song at *Le Crazy Horse de Paris*, never expecting something so heartbreaking in that setting. As I watched the dancer’s silhouette wilt with grace, I wondered whether it was the male gaze corroding a woman’s spirit, or if fragility and sorrow are inseparable from sensuality itself.
 
-> Forgive me, let live me, set my spirit free   
-> Weakness sown, overgrown     
-> Man is the baby  
+> Here before and after me, shinin' down on me  
+> Moon, tell me if I could send up my heart to you?   
+> So when I die, which I must do  
+> Could it shine down here with you?  
