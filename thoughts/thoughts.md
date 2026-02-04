@@ -32,7 +32,7 @@ fragile visions spill into the light
 retreating softly before the break of day  
 nothing i can do to make them stay
 
-# ▷ one gentle proposal
+# ▷ proposal
 *December 13, 2025*
 to be unafraid of its depth  
 to be unavoidant of its weight  

@@ -43,15 +43,6 @@ The moon doesn’t belong to anyone, yet everyone feels a private claim to it. L
 > So when I die, which I must do  
 > Could it shine down here with you?  
 
-# ▷ *Never Let Me Go* — Kazuo Ishiguro
-*Science Fiction Novel*
-
-![Never Let Me Go](covers/neverletmego.jpg) 
-This book holds a special place in my heart, as it was the first novel I studied in college. We’ll probably never return to a world before AI. It’s already transformed everything, and people are starting to lose the ability to think independently without its help. It makes me wonder if, we’re actually moving backward as a society, even as we claim technology defines how advanced we’ve become. What can we do now to keep ourselves from becoming the very dystopian society that literature has warned us about time and time again?
-
-
-> "How can you ask such a world to put away that cure, to go back to the dark days? There was no going back."      
-
 # ▷ *The Theory of Everything*
 
 *Movie*
@@ -77,19 +68,6 @@ In my early teens, this was the song I listened to most. Now, hearing it again a
 
 
 
-# ▷ *Kingston* — Faye Webster
-*Music*
-
-![Kingston](covers/kingston.jpg) 
-
-Autumn is probably my favorite season, and this song always finds its way back into my playlist around that time. It’s especially nice to listen to after waking in the morning, still dazed from a dream, while the air outside is crisp and the leaves are turning every shade of red and orange. I can stay warm under my blankets. Maybe I'll have a warm cup of chai...
-
-> It's the thought of you that slightly scares me   
-> But it takes my breath away   
-> Forget what I was gonna say   
-> The day that I met you I started dreaming   
-> Now I write 'em down if I remember in the morningtime  
-
 # ▷ *About You* — The 1975
 *Music*
 
@@ -102,8 +80,6 @@ The opening instrumental is a beautiful chaos, all the sounds of a symphony coll
 > And I miss you on the train, I miss you in the morning    
 > I never know what to think about    
 > I think about you   
-
-And, of course, I haven’t forgotten.
 
 # ▷ *Saw You In A Dream* — Japanese House
 *Music*
