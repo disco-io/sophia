@@ -1,8 +1,4 @@
-# ⚲ haiku 2
-*February 7, 2026*
-
-
-# ▷ haiku
+# ⚲ haiku
 *February 5, 2026*
 sparks in the low light  
 disco rooms electric with  

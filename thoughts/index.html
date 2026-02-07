@@ -18,19 +18,7 @@
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
-    <script>
-        fetch("../nav.html")
-            .then(res => res.text())
-            .then(data => {
-                document.getElementById("navbar").innerHTML = data;
-            });
-
-        fetch("thoughts.md")
-            .then(res => res.text())
-            .then(md => {
-                document.getElementById("blog").innerHTML = marked.parse(md);
-            });
-    </script>
+    <script src="script.js"></script>
 </body>
 
 </html>
