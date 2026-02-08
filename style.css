@@ -48,49 +48,6 @@ body {
     transition: transform 0.3s ease;
 }
 
-@media (max-width: 768px) {
-
-    .bag-section,
-    .ootd-section {
-        display: none;
-        /* hide bag and outfit sections on mobile */
-    }
-
-    .bag-section {
-        transform: scale(0.75);
-        transform-origin: top center;
-        padding: 80px 0;
-    }
-
-    .list-title {
-        font-size: 55px;
-        padding: 50px 0 20px 0;
-    }
-
-    .list-caption {
-        font-size: 18px;
-        width: 360px;
-        margin-bottom: 8px;
-    }
-}
-
-@media (max-width: 480px) {
-    .bag-section {
-        transform: scale(0.65);
-        transform-origin: top center;
-        padding: 60px 0;
-    }
-
-    .list-title {
-        font-size: 45px;
-        padding: 40px 0 15px 0;
-    }
-
-    .list-caption {
-        font-size: 16px;
-        width: 280px;
-    }
-}
 
 .intro-section {
     display: flex;
@@ -194,6 +151,48 @@ body {
 }
 
 
+.polaroid-carousel {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-template-rows: repeat(3, auto);
+    gap: 10px;
+    justify-content: center;
+    padding: 40px 0;
+}
+
+.polaroid {
+    background: #faf8f1;
+    border: 1px solid #e0e2c0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    width: 220px;
+    height: 300px;
+}
+
+.polaroid img {
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+    border-bottom: 1px solid #e0e2c0;
+}
+
+.caption {
+    margin-top: 8px;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #333;
+}
+
+.caption .date {
+    display: block;
+    font-weight: bold;
+}
+
+.caption .desc {
+    display: block;
+}
 
 /* ----- Banners ----- */
 .banner {
@@ -207,140 +206,6 @@ body {
     font-size: clamp(28px, 8vw, 60px);
     color: #787f17;
     margin: 0;
-}
-
-/* ----- Bag Section ----- */
-.bag-section {
-    position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 100px 0;
-    background-color: #f3efdd;
-    margin-top: 100px;
-}
-
-.bag-center img {
-    width: 470px;
-    max-width: 80%;
-    z-index: 2;
-    position: relative;
-}
-
-.bag-items {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    width: 600px;
-    height: 500px;
-    transform: translate(-50%, -50%);
-}
-
-.bag-item {
-    position: absolute;
-    text-align: center;
-}
-
-.bag-item img {
-    max-height: 300px;
-    max-width: 300px;
-    width: auto;
-}
-
-@media (max-width: 768px) {
-    .bag-section {
-        padding-bottom: 0px;
-    }
-}
-
-@media (max-width: 480px) {
-    .bag-section {
-        padding-bottom: 0px;
-    }
-}
-
-.item1 img {
-    height: 150px;
-}
-
-.item2 img {
-    height: 140px;
-}
-
-.item3 img {
-    height: 130px;
-}
-
-.item4 img {
-    height: 160px;
-}
-
-.item5 img {
-    width: 220px;
-}
-
-.item1 {
-    top: 0%;
-    left: 1%;
-    transform: rotate(-25deg);
-}
-
-.item2 {
-    top: 55%;
-    left: 1%;
-    transform: rotate(5deg);
-}
-
-.item3 {
-    top: 10%;
-    right: 5%;
-    transform: rotate(6deg);
-}
-
-.item4 {
-    top: 50%;
-    right: 12%;
-    transform: rotate(-10deg);
-}
-
-.item5 {
-    top: -10%;
-    left: 50%;
-    transform: translateX(-50%) rotate(3deg);
-}
-
-/* ----- OOTD Section ----- */
-.ootd-section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #f3efdd;
-    padding: 80px 20px;
-}
-
-.ootd-center {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-}
-
-.ootd-center img {
-    width: auto;
-    height: 350px;
-    max-width: 100%;
-}
-
-@media (max-width: 768px) {
-    .ootd-center img {
-        height: 250px;
-    }
-}
-
-@media (max-width: 480px) {
-    .ootd-center img {
-        height: 180px;
-    }
 }
 
 /* ----- Socials Grid ----- */
