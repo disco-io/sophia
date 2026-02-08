@@ -204,24 +204,24 @@ body {
 @media (max-width: 768px) {
     .polaroid-carousel {
         grid-template-columns: repeat(3, auto);
-        /* 3 columns */
         grid-template-rows: repeat(4, auto);
         justify-content: center;
-        gap: 10px;
+        gap: 7px;
     }
 
     .polaroid {
-        width: 150px;
-        height: 210px;
-        padding: 6px;
+        width: 140px;
+        height: 190px;
+        padding: 7px;
     }
 
     .polaroid img {
-        height: 140px;
+        height: 145px;
     }
 
     .caption {
-        font-size: 0.75rem;
+        font-size: 0.45rem;
+        line-height: 1.15;
     }
 }
 
