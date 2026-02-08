@@ -317,3 +317,50 @@ body {
     height: auto;
     max-width: 40%;
 }
+
+/* ----- Resume Cascade ----- */
+section {
+    opacity: 0;
+    transform: translateY(-30px);
+    animation: fallIn 0.8s ease forwards;
+}
+
+section:nth-of-type(1) {
+    animation-delay: 0.1s;
+}
+
+section:nth-of-type(2) {
+    animation-delay: 0.25s;
+}
+
+section:nth-of-type(3) {
+    animation-delay: 0.4s;
+}
+
+section:nth-of-type(4) {
+    animation-delay: 0.55s;
+}
+
+section:nth-of-type(5) {
+    animation-delay: 0.7s;
+}
+
+section:nth-of-type(6) {
+    animation-delay: 0.85s;
+}
+
+section:nth-of-type(7) {
+    animation-delay: 1s;
+}
+
+@keyframes fallIn {
+    from {
+        opacity: 0;
+        transform: translateY(-40px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
