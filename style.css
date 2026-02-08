@@ -189,7 +189,7 @@ body {
     margin-top: 6px;
     text-align: center;
     font-size: 0.8rem;
-    color: #333;
+    color: #83874b;
 }
 
 .caption .date {
@@ -220,7 +220,7 @@ body {
     }
 
     .caption {
-        font-size: 0.45rem;
+        font-size: 0.5rem;
         line-height: 1.15;
     }
 }
