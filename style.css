@@ -206,17 +206,17 @@ body {
         grid-template-columns: repeat(3, auto);
         grid-template-rows: repeat(4, auto);
         justify-content: center;
-        gap: 7px;
+        gap: 6px;
     }
 
     .polaroid {
-        width: 140px;
-        height: 190px;
-        padding: 7px;
+        width: 120px;
+        height: 163px;
+        padding: 6px;
     }
 
     .polaroid img {
-        height: 145px;
+        height: 124px;
     }
 
     .caption {
