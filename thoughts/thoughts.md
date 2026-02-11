@@ -1,3 +1,9 @@
+# ⚲ haiku 2.1
+*February 11, 2026*
+paper bird ceiling  
+my neck cranes towards our sky  
+like doves my heart soars  
+
 # ⚲ haiku 2
 *February 10, 2026*
 ceiling paper cranes  
