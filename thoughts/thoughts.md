@@ -1,8 +1,8 @@
 # ⚲ haiku 2
 *February 10, 2026*
 ceiling paper cranes  
-don't need one thousand to know  
-all those dreams came true  
+i didn't need one thousand  
+those dreams still came true  
 
 # ▷ haiku
 *February 5, 2026*
