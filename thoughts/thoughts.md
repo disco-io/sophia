@@ -1,10 +1,31 @@
-# ⚲ haiku 2.1
+# ▷ Wake Up As A Bug
+*February 11, 2026*
+
+Like Gregor in Franz Kafka’s *The Metamorphosis*, we all wake up some mornings feeling like dung-beetles, horrible vermins, unwanted creatures. Filthy pests to those around us, disappointing leeches on our parents' resources. What happened to the days when we dreamed of becoming butterflies?<br><br>
+
+For bugs have only two fates, after all: to metamorphose and flutter off into new lives, or to run out of time trying and be mercilessly crushed beneath the boots of those who no longer believe in us. Radiohead’s *Let Down* offers an equally visceral portrait of this bug-life we lead:<br>
+
+> Shell smashed, juices flowing, wings twitch    
+
+Yet even as we crawl through the dirt, we are still aware of what we might be. Somewhere inside the hard shell of this small, ugly thing lives a stubborn hunch of beauty, a belief that we will not always be this way, that one day we WILL spread our wings and the world will finally see what we were destined to become.<br>
+
+
+> One day, I am gonna grow wings  
+> A chemical reaction  
+> Hysterical and useless, hysterical and--   
+
+Oh, if only the world were kind enough to reward the potential we so adamantly promise: the faith that we will someday morph into something better and more beautiful than ourselves, even though we have no proof that such a metamorphosis awaits us. If only others believed in us the way we believe in ourselves.<br><br>
+
+So, in the meantime, we remain hidden, enveloped in our chrysalis, like dung beetles dreaming of a better life, waiting for the day we awaken transformed.
+
+
+# ▷ haiku 2.1
 *February 11, 2026*
 paper bird ceiling  
 my neck cranes towards our sky  
 like doves my heart soars  
 
-# ⚲ haiku 2
+# ▷ haiku 2
 *February 10, 2026*
 ceiling paper cranes  
 i didn't need one thousand  
