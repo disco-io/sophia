@@ -1,3 +1,9 @@
+# ▷ haiku 3
+*February 14, 2026*
+through cherry blossoms,  
+drifting snow, and autumn leaves  
+love stays evergreen  
+
 # ▷ Wake Up As A Bug
 *February 11, 2026*
 
