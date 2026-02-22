@@ -1,3 +1,13 @@
+# ▷ 俳句四
+*2026年2月22日*
+雪花霏霏舞  
+从天空中轻轻飘     
+落入人间梦
+
+> snowflakes gently dance  
+> drifting softly from the sky  
+> into humans' dreams   
+
 # ▷ haiku 3
 *February 14, 2026*
 through cherry blossoms,  
@@ -7,7 +17,7 @@ love stays evergreen
 # ▷ Wake Up As A Bug
 *February 11, 2026*
 
-Like Gregor in Franz Kafka’s *The Metamorphosis*, we all wake up some mornings feeling like dung-beetles, horrible vermins, unwanted creatures. Filthy pests to those around us, disappointing leeches on our parents' resources. What happened to the days when we dreamed of becoming butterflies?<br><br>
+Like Gregor in Franz Kafka’s *The Metamorphosis*, we all wake up some mornings feeling like dung-beetles, horrible vermins, unwanted creatures. Filthy pests to those around us, disappointing leeches on our resources. What happened to the days when we dreamed of becoming butterflies?<br><br>
 
 For bugs have only two fates, after all: to metamorphose and flutter off into new lives, or to run out of time trying and be mercilessly crushed beneath the boots of those who no longer believe in us. Radiohead’s *Let Down* offers an equally visceral portrait of this bug-life we lead:<br>
 
@@ -20,7 +30,7 @@ Yet even as we crawl through the dirt, we are still aware of what we might be. S
 > A chemical reaction  
 > Hysterical and useless, hysterical and--   
 
-Oh, if only the world were kind enough to reward the potential we so adamantly promise: the faith that we will someday morph into something better and more beautiful than ourselves, even though we have no proof that such a metamorphosis awaits us. If only others believed in us the way we believe in ourselves.<br><br>
+If only the world were kind enough to reward the potential we so adamantly promise: the faith that we will someday morph into something better and more beautiful than ourselves, even though we have no proof that such a metamorphosis awaits us. If only others believed in us the way we believe in ourselves.<br><br>
 
 So, in the meantime, we remain hidden, enveloped in our chrysalis, like dung beetles dreaming of a better life, waiting for the day we awaken transformed.
 
