@@ -6,7 +6,7 @@ In ballroom, I feel at liberty with my emotions and reflect them through my danc
 
 But in kendo, my partner is my adversary. In facing them, I must be aggressive, spontaneous, and quick-thinking. I am disciplined, and my movements are precise and marked by moments of stillness that are suddenly broken by explosive motion. Nothing is predetermined, and every exchange demands that I react in the moment.<br><br>
 
-How jarring it is to move from a world of glitz and glamour to one of armor and weapons! Yet there is one clear similarity between the two sports: they reveal the most admirable beauty, the kind that comes only when people perform their craft with complete passion, the pure expression of their art.<br><br>
+How jarring it is to move from a world of glitz and glamour to one of armor and weapons! Yet there is one clear similarity between the two sports: both reveal the most admirable beauty, the kind that comes only when people perform their craft with complete passion, the pure expression of their art.<br><br>
 
 Hopefully, someday I can become fluent in these two different languages of movement. I can’t wait to keep learning from both, twirling and striking my way through each new adventure!
 
