@@ -1,3 +1,9 @@
+# ▷ haiku 5
+*March 10, 2026*
+leave hibernation  
+these are warmer, better days  
+basked in sun-drenched lawns  
+
 # ▷ dance and fight!
 *March 8, 2026*
 Ah, I’m spent!! Having a ballroom competition and a kendo tournament back-to-back this weekend was nothing short of a test of body and spirit. Most importantly, though, I got the chance to observe two versions of myself.<br><br>
