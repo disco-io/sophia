@@ -1,5 +1,5 @@
 # ⚲ *Metamorfoseis* — Matina Sous Peau
-*Music*
+*Music (Greek)*
 
 ![Metamorfoseis](covers/metamorfoseis.jpg) 
 "I who change face and form in any minute I'll be gone." We can change so much that the self from a few years ago might hardly recognize the self of today. Metamorphosis is gradual, and it’s often hard to notice until you step back and see yourself from an outside angle. Yet at our core, we remain mostly the same. Our hearts still drawn to the same comforts, sometimes even the same people.
@@ -9,6 +9,19 @@
 > *There is only you, a couple of friends and music*     
 > που την καρδιά μου ξέρουν   
 > *That understand my heart*
+
+# ▷ *Sogni Ancora* — Piero Piccioni
+*Music (Italian)*
+
+![Sogni Ancora](covers/sogni.jpg) 
+Under spells of dreams, we become like naïve does prancing through quiet meadows. There, nothing can hurt us, and we are safe, un-surveillanced and unsupervised, for the dream world hardly infringes upon the real one. Faces of those we spend so much time thinking about in the daytime follow us when we retreat to that more vulnerable place at night. There, we are liberated to reconstruct happier exchanges, romanticized conversations, and our own ideal endings. So why revel in these comforts anyway, when by the morning light we rise again to a reality we cannot and dare not change? Dreams are a gift, our only opportunities to sneak peeks at our alternatives. Harmless ones, too! When we wake, the entire world dissolves like mist, and we are forever barred from ever returning to it, until we forget and it no longer belongs to our reality at all. 
+
+
+> Sogni ancora, ma perché vuoi sognare     
+> *You still dream, but why do you want to dream?*     
+> Quando tu non vuoi cambiare La realtà?   
+> *When you don't want to change Reality?*
+
 
 # ▷ *Man Is The Baby* — Antony
 *Music*
