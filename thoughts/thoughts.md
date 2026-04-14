@@ -1,3 +1,13 @@
+# ▷ neuromancer
+*April 14, 2026*
+hi, my precious neuromancer   
+darting through my mind like a prancer   
+all your questions, i can’t answer  
+still you follow, restless advancer  
+soft eyed dreamer, moonlight enhancer  
+what do you see, my life romancer?
+
+
 # ▷ haiku 5
 *March 10, 2026*
 leave hibernation  
@@ -8,13 +18,13 @@ basked in sun-drenched lawns
 *March 8, 2026*
 Ah, I’m spent!! Having a ballroom competition and a kendo tournament back-to-back this weekend was nothing short of a test of body and spirit. Most importantly, though, I got the chance to observe two versions of myself.<br><br>
 
-In ballroom, I feel at liberty with my emotions and reflect them through my dancing, whether peaceful, playful, dramatic, or joyful. My body moves continuously through space with smooth and flowing transitions. Each step is rehearsed and choreographed with a partner who supports me, and together we move in harmony. There is comfort in knowing exactly how the dance will unfold, and I revel in the peace of moving through choreography just as I practiced it.<br><br>
+In ballroom, I feel at liberty with my emotions and reflect them through my dancing, whether peaceful, playful, dramatic, or joyful. My body moves continuously with smooth and flowing transitions. Every step is rehearsed and choreographed with a partner who supports me, and together we move in harmony. There is comfort in knowing exactly how the dance will unfold, and I revel in the peace of moving through choreography just as I practiced it.<br><br>
 
-But in kendo, my partner is my adversary. In facing them, I must be aggressive, spontaneous, and quick-thinking. I am disciplined, and my movements are precise and marked by moments of stillness that are suddenly broken by explosive motion. Nothing is predetermined, and every exchange demands that I react in the moment.<br><br>
+But in kendo, my partner is my adversary. In facing them, I must be aggressive, spontaneous, and quick-thinking. I am disciplined, and my movements are precise and filled with moments of stillness that are suddenly broken by explosive motion. Nothing is predetermined, and every exchange demands that I react in the moment.<br><br>
 
-How jarring it is to move from a world of glitz and glamour to one of armor and weapons! Yet there is one clear similarity between the two sports: both reveal the most admirable beauty, the kind that comes only when people perform their craft with complete passion, the pure expression of their art.<br><br>
+How jarring it is to move from a world of glitz and glamour to one of armor and weapons! But there is one clear similarity between the two sports: both reveal the most admirable beauty, the kind that comes only when people perform their craft with complete passion, the pure expression of their art.<br><br>
 
-Hopefully, someday I can become fluent in these two different languages of movement. I can’t wait to keep learning from both, twirling and striking my way through each new adventure!
+Hopefully, someday I can become fluent in these two different languages of movement. I can’t wait to keep learning from both, twirling and striking my way through each new adventure! :)
 
 
 # ▷ 俳句四
