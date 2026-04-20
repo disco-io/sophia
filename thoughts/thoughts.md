@@ -1,3 +1,10 @@
+# ▷ Spring In New York ❀˖°
+*April 20, 2026*
+I guess in many ways, the coming of spring is just like falling in love. As if overnight all the flowers bloom and leaves find their way back onto the trees, and you wonder how it ever looked any different, how there ever really was a time when everything stood bare and ice suppressed the world in place. But you have to be grateful for the winter, for it is because of that cold and lonely hibernation that your heart soars when you finally step into warmth again and let the sun caress your face. You come out of it better than you were before, and tell yourself you are ready for the new season.<br><br>
+
+Flowers seem to appear from nowhere, but in truth the seeds were planted months ago, buried and waiting beneath what you could not yet see. They have been growing so shyly and so imperceptibly, until the blooms finally cross a threshold where they’re everywhere and you cannot possibly ignore them. And after that point, the flowers keep multiplying. You exceed what you once thought was the ceiling of happiness. Joy rushes through you. The rest of the world seems brighter, and suddenly you have time to enjoy life more, to put a pause on your worries for a little while.
+
+
 # ▷ neuromancer
 *April 14, 2026*
 hi, my precious neuromancer   
