@@ -1,3 +1,7 @@
+# ▷ Carpe Diem
+*April 20, 2026*
+> "Death is so sure of winning that it gives you a whole life as a head start."
+
 # ▷ Spring In New York ❀˖°
 *April 20, 2026*
 I guess in many ways, the coming of spring is just like falling in love. As if overnight all the flowers bloom and leaves find their way back onto the trees, and you wonder how it ever looked any different, how there ever really was a time when everything stood bare and ice suppressed the world in place. But you have to be grateful for the winter, for it is because of that cold and lonely hibernation that your heart soars when you finally step into warmth again and let the sun caress your face. You come out of it better than you were before, and tell yourself you are ready for the new season.<br><br>
