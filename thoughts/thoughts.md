@@ -1,3 +1,9 @@
+# ▷ Do You Follow?
+*May 20, 2026*
+I really appreciate when my friends take the time to describe and unpack their interests to me. Why a dance step matters, how an obscure game mechanic works, why certain nutrients are valued. Some conversations take paragraphs or long sit downs. And in the middle of a long winding train of thought, it’s interrupted by some version of, “do you follow?”<br><br>
+
+Yes, I follow, and I love following you down the rabbit hole of your heart and mind. I follow because you are my guide through uncharted territory I would otherwise get lost wandering alone. I follow because I’ve been invited into your way of seeing the world, and it is an invitation I rarely decline. The way enthusiasm lights up your face when you share what matters to you makes me want to step into that world, to follow you where you go.
+
 # ▷ Carpe Diem
 *April 20, 2026*
 > "Death is so sure of winning that it gives you a whole life as a head start."

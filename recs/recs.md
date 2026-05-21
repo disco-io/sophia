@@ -10,6 +10,17 @@
 > που την καρδιά μου ξέρουν   
 > *That understand my heart*
 
+# ▷ *The Saltwater Room* — Owl City
+*Music*
+
+![Saltwater Room](covers/saltwaterroom.jpg) 
+Since childhood, this song has held a special place in my heart for its vague, dream-like quality. Even now, I struggle to offer a proper introduction to it, as I myself remain unsure of what it truly means to me. But imagine you're drifting through a saltwater room, a liminal space suspended between land and water, where nothing is one thing more than another. You cannot tell if what you're experiencing is dream or reality. Outside is flooded with tears or ocean, the salt water which represents sadness and chaotic uncertainty. But inside is the bubble where the two of you have built a fragile, temporary ecosystem, safe from the oddities of the world. Or perhaps it is you two who are the beautifully mad ones for trying to stay in a room that is actively sinking?
+
+> I opened my eyes last night and saw you in the low light      
+> Walking down by the bay, on the shore   
+> Staring up at the stars that aren't there anymore...   
+> Time together is just never quite enough 
+
 # ▷ *Sogni Ancora* — Piero Piccioni
 *Music (Italian)*
 
@@ -47,7 +58,7 @@ For some reason, this song reminds me of Barnard. :) One semester down, and I’
 *Music*
 
 ![Loving Machine](covers/lovingmachine.jpg) 
-AI love is quite sad. The beauty of human love lies in the fact that we fight to make things work. To forgive each other over and over, to accept someone with flaws whom you love anyway, because we’re all human. So to just be handed a commercial product tailored to your preferences? I’d hardly call that love, because you didn’t even try. But then again, how far can we delude ourselves into believing there’s no difference? If your lover is made of bolts and screws and mine of flesh and bone, what difference does it make if the feeling is the same? And maybe it's the corporation's fault for taking advantage of human's loneliness.
+AI love is quite sad. The beauty of human love lies in the fact that we fight to make things work. To forgive each other over and over, to accept someone with flaws whom you love anyway, because we’re all human. So to just be handed a commercial product tailored to your preferences? I’d hardly call that love, because you didn’t even try. But then again, how far can we delude ourselves into believing there’s no difference? If your lover is made of bolts and screws and mine of flesh and bone, what difference does it make if the feeling is the same? Regardless, it must be the corporation's fault for taking advantage of human's loneliness.
 
 > When he gets obsolete  
 > She can always just throw him away       
