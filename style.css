@@ -318,7 +318,6 @@ body {
     max-width: 40%;
 }
 
-/* ----- Resume Cascade ----- */
 section {
     opacity: 0;
     transform: translateY(-30px);
