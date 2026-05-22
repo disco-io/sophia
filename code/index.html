@@ -5,57 +5,214 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sophia Huang | Code</title>
+
     <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
     <link rel="stylesheet" href="style.css">
+
     <link rel="icon" href="../home/favicon.png" type="image/x-icon">
 </head>
 
 <body>
     <div id="loading-screen" class="screen">
         <div class="loading-text">compiling disco...</div>
+
         <div class="memory-bar soft">
             <span>■</span><span>■</span><span>■</span><span>■</span><span>■</span>
             <span>■</span><span>■</span><span>■</span><span>■</span><span>■</span>
             <span>■</span><span>■</span><span>■</span><span>■</span>
         </div>
-        <div class="loading-sub">allocating memory…</div>
+
+        <div class="loading-sub">
+            allocating memory…
+        </div>
     </div>
 
     <div id="exit-screen" class="screen hidden">
-        <div class="loading-text">hibernating... zzz</div>
+
+        <div class="loading-text">
+            hibernating... zzz
+        </div>
+
         <div class="memory-bar soft">
             <span>■</span><span>■</span><span>■</span><span>■</span><span>■</span>
             <span>■</span><span>■</span><span>■</span><span>■</span><span>■</span>
             <span>■</span><span>■</span><span>■</span><span>■</span>
         </div>
-        <div class="loading-sub">saving memory…</div>
+
+        <div class="loading-sub">
+            saving memory…
+        </div>
+
     </div>
-
     <div id="navbar" class="hidden"></div>
-
     <div id="main" class="hidden">
-        <div class="project-card" id="openModal">
-            <div class="project-title">mini color nn</div>
-            <div class="project-desc">
-                Mini bags, mini gadgets, mini this, mini that… now meet the mini CIFAR-10 dataset:
-                compact, lightweight, and optimized for lightning-fast image classification
-                with convolutional neural networks. Who knew 60,000 images could be so "byte-sized"!
+
+        <div class="projects-grid">
+
+            <!-- PAYMI -->
+
+            <div class="project-card" id="openModal">
+                <img src="project-img/paymi.png" class="project-image" alt="paymi">
+                <div class="project-title">
+                    (WIP:) paymi
+                </div>
+                <div class="project-desc">
+
+                    A description for this project is currently unavailable. Please check back later!
+
+                </div>
+
+                <div class="project-meta">
+                    <br>
+                    Year: 2026
+                    Language: N/A<br>
+                    Status: In progress<br><br>
+
+                    <a href="" target="_blank" class="github-link">
+                        <img src="../assets/githubpink.png" class="github-img">
+
+                        Currently Unavailable on Github
+
+                    </a>
+                </div>
             </div>
-            <div class="project-meta">
-                Language: Python<br>
-                Status: Complete<br><br>
-                <a href="https://github.com/disco-io/SysLab-RES-24-25.git" target="_blank" class="github-link">
-                    <img src="../assets/githubpink.png" alt="GitHub" class="github-img">
-                    Available on Github
-                </a>
+
+            <!-- MINI COLOR NN -->
+
+            <div class="project-card" id="openModal">
+                <img src="project-img/minicolornn.png" class="project-image" alt="mini color nn">
+                <div class="project-title">
+                    mini color nn
+                </div>
+                <div class="project-desc">
+
+                    Mini bags, mini gadgets,
+                    mini this, mini that…
+                    now meet the mini CIFAR-10 dataset.
+                    Who knew 60,000 images could be so byte-sized!
+
+                </div>
+
+                <div class="project-meta">
+                    <br>
+                    Year: 2024-2025<br>
+                    Language: Python<br>
+                    Status: Complete<br><br>
+
+                    <a href="https://github.com/disco-io/SysLab-RES-24-25.git" target="_blank" class="github-link">
+                        <img src="../assets/githubpink.png" class="github-img">
+
+                        Available on Github
+
+                    </a>
+                </div>
             </div>
+
+            <!-- CHESAPEAKE -->
+
+            <div class="project-card">
+
+                <img src="project-img/chesapeake.png" class="project-image" alt="chesapeake">
+                <div class="project-title">
+
+                    chesapeake
+
+                </div>
+                <div class="project-desc">
+
+                    Interactive map of Chesapeake Bay water sampling stations,
+                    developed for Smithsonian Environmental Research Center
+                    to aid NASA data collection.
+
+                </div>
+                <div class="project-meta">
+                    <br>
+                    Year: 2023<br>
+                    Language: Python<br>
+                    Status: Complete<br><br>
+
+                    <a href="https://github.com/disco-io/meiro.git" target="_blank" class="github-link">
+                        <img src="../assets/githubpink.png" class="github-img">
+
+                        Available on Github
+
+                    </a>
+                </div>
+            </div>
+
+            <!-- MEIRO -->
+
+            <div class="project-card" id="openModal">
+                <img src="project-img/meiro.png" class="project-image" alt="meiro">
+                <div class="project-title">
+                    meiro
+                </div>
+                <div class="project-desc">
+
+                    Escape a maze with your Mudkip, avoid wild Pokémon,
+                    collect pokéballs, and rescue the Shiny.
+                    Different characters have unique abilities and health.
+
+                </div>
+
+                <div class="project-meta">
+                    <br>
+                    Year: 2022<br>
+                    Language: Java<br>
+                    Status: Complete, inactive<br><br>
+
+                    <a href="https://github.com/disco-io/SysLab-RES-24-25.git" target="_blank" class="github-link">
+                        <img src="../assets/githubpink.png" class="github-img">
+
+                        Available on Github
+
+                    </a>
+                </div>
+            </div>
+
+            <!-- SANDWICH BOTTO -->
+
+            <div class="project-card" id="openModal">
+                <img src="project-img/sandwichbotto.png" class="project-image" alt="sandwich botto">
+                <div class="project-title">
+                    sandwich botto
+                </div>
+                <div class="project-desc">
+
+                    Discord bot that randomly generates all kinds
+                    of sandwiches with all kinds of fillings!
+                    Verified Discord Developer Portal bot.
+
+                </div>
+
+                <div class="project-meta">
+                    <br>
+                    Year: 2022<br>
+                    Language: Python<br>
+                    Status: Complete, inactive<br><br>
+
+                    <a href="https://github.com/disco-io/sandwich-botto.git" target="_blank" class="github-link">
+                        <img src="../assets/githubpink.png" class="github-img">
+
+                        Available on Github
+
+                    </a>
+                </div>
+            </div>
+
         </div>
     </div>
 
+
     <div id="myModal" class="modal">
         <div class="modal-content">
-            <span class="close-btn" id="closeModal">&times;</span>
-            <div class="modal-title">mini color nn</div>
+            <span class="close-btn" id="closeModal">
+                &times;
+            </span>
+            <div class="modal-title">
+                mini color nn
+            </div>
             <div class="modal-text">
                 Full Description Currently Unavailable!
             </div>
