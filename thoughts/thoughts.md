@@ -1,3 +1,15 @@
+# ▷ there
+*June 18, 2026*
+better swallowed by that sea of light  
+than sink in this quiet street at night  
+prefer the different sun  
+to the safe familiar one  
+i've tasted a life too bright  
+to surrender without a fight  
+suburbia, you will not have me  
+i've got somewhere else to be
+
+
 # ▷ Do You Follow?
 *May 20, 2026*
 I really appreciate when my friends take the time to describe and unpack their interests to me. Why a dance step matters, how an obscure game mechanic works, why certain nutrients are valued. Some conversations take paragraphs or long sit downs. And in the middle of a long winding train of thought, it’s interrupted by some version of, “do you follow?”<br><br>
