@@ -14,12 +14,22 @@
 *Music*
 
 ![Saltwater Room](covers/saltwaterroom.jpg) 
-Since childhood, this song has held a special place in my heart for its vague, dream-like quality. Even now, I struggle to offer a proper introduction to it, as I myself remain unsure of what it truly means to me. But imagine you're drifting through a saltwater room, a liminal space suspended between land and water, where nothing is one thing more than another. You cannot tell if what you're experiencing is dream or reality. Outside is flooded with tears or ocean, the salt water which represents sadness and chaotic uncertainty. But inside is the bubble where the two of you have built a fragile, temporary ecosystem, safe from the oddities of the world. Or perhaps it is you two who are the beautifully mad ones for trying to stay in a room that is actively sinking?
+Since childhood, this song has held a special place in my heart for its vague, dream-like quality. Even now, I struggle to offer a proper introduction to it, as I myself remain unsure of what it truly means to me. But imagine you're drifting through a saltwater room, a liminal space suspended between land and water, where nothing is one thing more than another. You cannot tell if what you're experiencing is dream or reality. Outside is flooded with tears or ocean, the salt water which represents sadness and chaotic uncertainty. But inside is the bubble where the two of you have built a fragile, temporary ecosystem, safe from the oddities of the world. 
 
 > I opened my eyes last night and saw you in the low light      
 > Walking down by the bay, on the shore   
 > Staring up at the stars that aren't there anymore...   
 > Time together is just never quite enough 
+
+# ▷ *Metamorphoses by Ovid* — Echo & Narcissus
+*Poem*
+
+![Metamorphoses](covers/metamorphoses.jpg) 
+Echo was a nymph cursed to only repeat the last words spoken to her, and when she fell in love with Narcissus she could offer him nothing but an echo of himself. Although myth, this is in many ways what we do when we are enchanted to silence by the presence of someone we admire. We offer them themselves because in our eyes they embody perfection and we don't know what else to give. But when we wear the skin of someone who is not us the artifice becomes transparent and people recoil from it, they can sense it, the way Narcissus recoiled from Echo even though all she was doing was loving him the only way she knew how.
+
+> "Come be with me!" he says.  
+> Echo had never been more glad to echo and repeated,  
+> "Be with me!"
 
 # ▷ *Sogni Ancora* — Piero Piccioni
 *Music (Italian)*
@@ -27,11 +37,19 @@ Since childhood, this song has held a special place in my heart for its vague, d
 ![Sogni Ancora](covers/sogni.jpg) 
 Under spells of dreams, we become like naïve does prancing through meadows. There, nothing can hurt us, and we are safe, un-surveillanced and unsupervised, for the dream world hardly infringes upon the real one. Faces of those we spend so much time thinking about in the daytime follow us when we retreat to that more vulnerable place at night. There, we are liberated to reconstruct happier exchanges, romanticized conversations, and our own ideal endings. So why revel in these comforts anyway, when by the morning light we rise again to a reality we cannot and dare not change? Dreams are a gift, our only opportunities to sneak peeks at our alternatives. Harmless ones, too! When we wake, the entire world dissolves like mist, and we are forever barred from ever returning to it, until we forget and it no longer belongs to our reality at all. 
 
-
 > Sogni ancora, ma perché vuoi sognare     
 > *You still dream, but why do you want to dream?*     
 > Quando tu non vuoi cambiare La realtà?   
 > *When you don't want to change Reality?*
+
+# ▷ *Inventing* — Matilda Mann
+*Music*
+
+![Inventing](covers/inventing.jpg) 
+For some reason, this song reminds me of Barnard. :) One semester down, and I’ve already seen so many smart, beautiful, inspiring young women doing all sorts of incredible things. So loving, so creative, constantly inventing, tinkering, writing, designing. Always on the go, always improving. And what a gift it is to be surrounded by such contagious energy!
+
+> Love is just too weak of a word  
+> I've gotta get inventing, something's gotta hit it     
 
 
 # ▷ *Man Is The Baby* — Antony
@@ -44,15 +62,6 @@ Can I be forgiven? Can I start over? Where did it all go wrong? We carry so much
 > Forgive me, let live me, set my spirit free   
 > Weakness sown, overgrown     
 > Man is the baby  
-
-# ▷ *Inventing* — Matilda Mann
-*Music*
-
-![Inventing](covers/inventing.jpg) 
-For some reason, this song reminds me of Barnard. :) One semester down, and I’ve already seen so many smart, beautiful, inspiring young women doing all sorts of incredible things. So loving, so creative, constantly inventing, tinkering, writing, designing. Always on the go, always improving. And what a gift it is to be surrounded by such contagious energy!
-
-> Love is just too weak of a word  
-> I've gotta get inventing, something's gotta hit it     
 
 # ▷ *Loving Machine* — TV Girl
 *Music*
@@ -90,7 +99,6 @@ In my early teens, this was the song I listened to most. Now, hearing it again a
 > The sun set over our time together   
 
 
-
 # ▷ *About You* — The 1975
 *Music*
 
@@ -109,7 +117,7 @@ The opening instrumental is a beautiful chaos, all the sounds of a symphony coll
 
 ![Saw You In a Dream](covers/sawyouinadream.jpg)
 
-Dreams are a strange thing. You’re supposed to be at rest while you sleep, yet sometimes your mind feels more active than ever, spinning the wildest visions so vivid they can feel more real than waking life. That’s how some of my dreams are. I’ve lived through entire stories in my sleep, and a few have even left a mark on my waking world.
+Dreams are a strange thing. You’re supposed to be at rest while you sleep, yet sometimes your mind feels more active than ever, spinning the wildest visions so vivid they can feel more real than waking life. That’s how some of my dreams are. I’ve lived through entire stories in my sleep, and a few have even left a mark on my waking world. 
 
 > I saw you in a dream   
 > You came to me   
@@ -126,14 +134,3 @@ I started reading this book in June 2024, and it took me a full year to finish a
 
 > “Life rearranges itself to compensate for your loss, sometimes wonderfully.”
 
-# ▷ *My Love Mine All Mine* — Mitski
-*Music*
-
-![My Love Mine All Mine](covers/mylovemineallmine.jpg) 
-The moon doesn’t belong to anyone, yet everyone feels a private claim to it. Lovers swear to it, lonely people confide in it, travelers use it to remember home. We’re comforted by the idea that the moon belongs to all of us, that across any distance or separation, we can all look up and find the same light in the night sky. Against the moon’s age, our lives seem so transient, but maybe that’s why we look up to it. If our hearts can’t last, perhaps the act of offering them can. 
-
-
-> Here before and after me, shinin' down on me  
-> Moon, tell me if I could send up my heart to you?   
-> So when I die, which I must do  
-> Could it shine down here with you?  
