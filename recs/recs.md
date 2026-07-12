@@ -1,4 +1,4 @@
-# ⚲ *Metamorfoseis* — Matina Sous Peau
+# ⚲ *Metamorfoseis* · Matina Sous Peau
 *Music (Greek)*
 
 ![Metamorfoseis](covers/metamorfoseis.jpg) 
@@ -10,7 +10,7 @@
 > που την καρδιά μου ξέρουν   
 > *That understand my heart*
 
-# ▷ *The Saltwater Room* — Owl City
+# ▷ *The Saltwater Room* · Owl City
 *Music*
 
 ![Saltwater Room](covers/saltwaterroom.jpg) 
@@ -21,7 +21,7 @@ Since childhood, this song has held a special place in my heart for its vague, d
 > Staring up at the stars that aren't there anymore...   
 > Time together is just never quite enough 
 
-# ▷ *Metamorphoses by Ovid* — Echo & Narcissus
+# ▷ *Metamorphoses by Ovid* · Echo & Narcissus
 *Poem*
 
 ![Metamorphoses](covers/metamorphoses.jpg) 
@@ -31,7 +31,7 @@ Echo was a nymph cursed to only repeat the last words spoken to her, and when sh
 > Echo had never been more glad to echo and repeated,  
 > "Be with me!"
 
-# ▷ *Sogni Ancora* — Piero Piccioni
+# ▷ *Sogni Ancora* · Piero Piccioni
 *Music (Italian)*
 
 ![Sogni Ancora](covers/sogni.jpg) 
@@ -42,7 +42,7 @@ Under spells of dreams, we become like naïve does prancing through meadows. The
 > Quando tu non vuoi cambiare La realtà?   
 > *When you don't want to change Reality?*
 
-# ▷ *Inventing* — Matilda Mann
+# ▷ *Inventing* · Matilda Mann
 *Music*
 
 ![Inventing](covers/inventing.jpg) 
@@ -52,7 +52,7 @@ For some reason, this song reminds me of Barnard. :) One semester down, and I’
 > I've gotta get inventing, something's gotta hit it     
 
 
-# ▷ *Man Is The Baby* — Antony
+# ▷ *Man Is The Baby* · Antony
 *Music*
 
 ![Man Is The Baby](covers/manisthebaby.jpg)
@@ -63,7 +63,7 @@ Can I be forgiven? Can I start over? Where did it all go wrong? We carry so much
 > Weakness sown, overgrown     
 > Man is the baby  
 
-# ▷ *Loving Machine* — TV Girl
+# ▷ *Loving Machine* · TV Girl
 *Music*
 
 ![Loving Machine](covers/lovingmachine.jpg) 
@@ -86,7 +86,7 @@ A heart to care for the intellectual; a mind to nourish the carer. No single per
 > "Wind back the clock..."  
 
 
-# ▷ *Italo Disco* — Last Dinosaurs
+# ▷ *Italo Disco* · Last Dinosaurs
 *Music*
 
 ![Italo Disco](covers/italodisco.jpg) 
@@ -99,7 +99,7 @@ In my early teens, this was the song I listened to most. Now, hearing it again a
 > The sun set over our time together   
 
 
-# ▷ *About You* — The 1975
+# ▷ *About You* · The 1975
 *Music*
 
 ![About You](covers/aboutyou.jpg)
@@ -112,7 +112,7 @@ The opening instrumental is a beautiful chaos, all the sounds of a symphony coll
 > I never know what to think about    
 > I think about you   
 
-# ▷ *Saw You In A Dream* — Japanese House
+# ▷ *Saw You In A Dream* · Japanese House
 *Music*
 
 ![Saw You In a Dream](covers/sawyouinadream.jpg)
@@ -125,7 +125,7 @@ Dreams are a strange thing. You’re supposed to be at rest while you sleep, yet
 > There was no reason, no explanation  
 > The perfect hallucination  
 
-# ▷ *A Little Life* — Hanya Yanagihara
+# ▷ *A Little Life* · Hanya Yanagihara
 *Fiction Novel*
 
 ![A Little Life](covers/alittlelife.jpg)
