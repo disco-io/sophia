@@ -10,6 +10,17 @@
 > που την καρδιά μου ξέρουν   
 > *That understand my heart*
 
+# ▷ *She is Gone* · Ajibon Hidayati
+*Music*
+
+![She is Gone](covers/sheisgone.jpg) 
+Finding the lyrics for a lesser known song feels like uncovering a mystery until you eventually give up and transcribe it yourself. You sit there replaying the same few seconds over and over, listening as closely as you can, filling in the words you can't quite make out. What's fascinating is that those guesses often become emotionally true even if they're factually wrong. People mishear lyrics all the time, but sometimes the version they invent says more about them than the version the artist actually wrote. Before the official lyrics exist, the song has a hundred different versions, one in every listener's mind, belonging equally to the person who wrote it and the person trying to understand it.
+
+> You laughed in your scarf        
+> Breathe in the air     
+> Little clouds between us     
+> Cheeks gone red   
+
 # ▷ *The Saltwater Room* · Owl City
 *Music*
 
