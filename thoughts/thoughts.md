@@ -1,3 +1,9 @@
+# ▷ haiku 6
+*August 22, 2026*
+black and blonde feathers  
+two birdies perched on the dock  
+near the red birdhouse  
+
 # ▷ Tangled Necklace
 *August 9, 2026*
 It is my first night in Switzerland. I sit barefoot on the balcony of my hotel in Lucerne. Across the lake, someone is playing Liebestraum No. 3 on the street, a song I tried learning a few years ago but abandoned because my hands couldn't stretch beyond an octave to satisfy the 9th and 10th chords. Around the pianist, a circle of people has gathered, and I wonder if the pianist could've been me, had I seen it through. I sit cross-legged on the balcony chair, bent over, brows furrowed at my sister's tangled necklace. It's a dizzying knot to look at, and my mind couldn't begin to guess how to undo it, so I start tugging and pulling at the chain until the ends fall loose, and the ball slowly unspools into a more linear form. As I work, I think ahead to my reward: the look on her face when she sees it whole again, the necklace she'd given up as unrepairable.
