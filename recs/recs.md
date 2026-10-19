@@ -1,3 +1,14 @@
+# ⚲ *All I Can Say* · Kali Uchis
+*Music*
+
+![All I Can Say](covers/allicansay.jpg) 
+It’s been months since any song has struck me so. But this one carries a warmth and dreaminess that I feel reflects me wonderfully. Its message is a gentle reassurance that it’s okay to dream unapologetically, to love freely and passionately, and to remain undaunted in times of turbulence. It reminds me of one of my favorite Chinese adjectives: 勇敢 (yǒnggǎn). The word is made of two characters: 勇 (yǒng), meaning courage, and 敢 (gǎn), meaning to dare. Together, they describe a kind of bravery I hold close to my heart as I navigate the wondrous act of living.
+
+> & my peace of mind...     
+> No, it will not be destroyed  
+> By lost souls on the decline  
+> Who only strive to divide  
+
 # ⚲ *Metamorfoseis* · Matina Sous Peau
 *Music (Greek)*
 
