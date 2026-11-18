@@ -1,0 +1,263 @@
+:root {
+    --mist: #ffdcd5;
+    --blue: #ffdcd5;
+    --steel: #e6a3a3;
+    --page: #f3efdd;
+    --paper: #faf8f1;
+    --slate: #787f17;
+    --gold: #c59a3e;
+    --gold2: #f6d3d6;
+    --amber: #787f17;
+    --lead: #787f17;
+    --text: #5e6420;
+}
+
+body.tg,
+body.tg #content {
+    background-color: var(--page);
+}
+
+.cv {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 24px 90px;
+    font-family: 'Optima', sans-serif;
+    line-height: 1.65;
+    color: var(--text);
+}
+
+.cv-head {
+    text-align: center;
+    margin-bottom: 2.75rem;
+}
+
+.cv-name {
+    margin: 0;
+    font-family: 'Optima', sans-serif;
+    font-weight: bold;
+    font-size: clamp(32px, 6vw, 44px);
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    color: var(--slate);
+}
+
+.cv-contact,
+.entry-sub,
+.pub-sub {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.cv-contact {
+    justify-content: center;
+    gap: 4px 0;
+    margin-top: 10px;
+    font-size: 0.98rem;
+    color: var(--text);
+}
+
+.cv-contact li,
+.entry-sub li,
+.pub-sub li {
+    white-space: nowrap;
+}
+
+.cv-contact li:not(:last-child)::after,
+.entry-sub li:not(:last-child)::after,
+.pub-sub li:not(:last-child)::after {
+    content: "";
+    display: inline-block;
+    width: 5px;
+    height: 5px;
+    margin: 0 12px;
+    vertical-align: middle;
+    transform: rotate(45deg);
+    background: var(--steel);
+}
+
+.cv-contact a {
+    color: var(--text);
+    text-decoration: none;
+    border-bottom: 1px solid var(--steel);
+    transition: color 0.2s ease, border-color 0.2s ease;
+}
+
+.cv-contact a:hover {
+    color: var(--amber);
+    border-color: var(--amber);
+}
+
+.cv section {
+    margin-bottom: 2.6rem;
+}
+
+.cv h2 {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin: 0 0 1.1rem;
+    font-family: 'Optima', sans-serif;
+    font-weight: bold;
+    font-size: 1.35rem;
+    letter-spacing: 0.02em;
+    color: var(--amber);
+}
+
+.cv h2::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--gold);
+}
+
+.cv h2::before {
+    content: "";
+    width: 8px;
+    height: 8px;
+    flex-shrink: 0;
+    transform: rotate(45deg);
+    background: var(--blue);
+    border: 1px solid var(--lead);
+}
+
+.entry {
+    margin-bottom: 1.6rem;
+}
+
+.entry:last-child {
+    margin-bottom: 0;
+}
+
+.entry-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 2px 16px;
+}
+
+.entry-head h3 {
+    margin: 0;
+    font-family: 'Optima', sans-serif;
+    font-size: 1.12rem;
+    font-weight: bold;
+    color: var(--slate);
+}
+
+.entry-head .date {
+    font-style: italic;
+    font-size: 0.95rem;
+    color: var(--amber);
+    white-space: nowrap;
+}
+
+.entry-sub {
+    margin-top: 2px;
+    font-style: italic;
+    font-size: 0.95rem;
+    color: var(--text);
+}
+
+.points {
+    margin: 0.55rem 0 0;
+    padding-left: 1.3rem;
+    list-style: none;
+}
+
+.points li {
+    position: relative;
+    margin-bottom: 0.4rem;
+}
+
+.points li::before {
+    content: "";
+    position: absolute;
+    left: -1.05rem;
+    top: 0.62em;
+    width: 5px;
+    height: 5px;
+    transform: rotate(45deg);
+    background: var(--gold);
+}
+
+.pub {
+    display: block;
+    padding: 22px 26px;
+    background: var(--paper);
+    border: 3px solid var(--lead);
+    outline: 1px solid var(--gold);
+    outline-offset: -7px;
+    color: inherit;
+    text-decoration: none;
+    transition: background-color 0.2s ease, transform 0.2s ease;
+}
+
+.pub:hover {
+    background: #ffffff;
+    transform: translateY(-2px);
+}
+
+.pub-main {
+    display: block;
+    font-size: 1.12rem;
+    font-weight: bold;
+    line-height: 1.45;
+    color: var(--slate);
+}
+
+.pub-sub {
+    margin-top: 8px;
+    font-size: 0.92rem;
+    font-style: italic;
+    color: var(--text);
+}
+
+.skills {
+    display: grid;
+    grid-template-columns: max-content minmax(0, 1fr);
+    gap: 8px 24px;
+    margin: 0;
+}
+
+.skills dt {
+    font-weight: bold;
+    color: var(--slate);
+}
+
+.skills dd {
+    margin: 0;
+}
+
+@media (max-width: 600px) {
+    .cv {
+        padding: 28px 18px 70px;
+        font-size: 15px;
+    }
+
+    .cv-contact {
+        flex-direction: column;
+        gap: 2px;
+    }
+
+    .cv-contact li::after {
+        display: none !important;
+    }
+
+    .skills {
+        grid-template-columns: 1fr;
+        gap: 2px;
+    }
+
+    .skills dd {
+        margin-bottom: 10px;
+    }
+}
+
+.points strong,
+.entry-sub strong {
+    color: var(--slate);
+}

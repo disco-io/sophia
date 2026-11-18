@@ -6,23 +6,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sophia Huang | List100</title>
     <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="nouveau.css">
     <link rel="icon" href="../home/favicon.png" type="image/x-icon">
 </head>
 
-<body>
+<body class="pl">
     <div id="navbar"></div>
 
     <div id="content">
-        <h1 class="list-title">My List 100</h1>
-        <p class="list-caption">
-            So much to do, yet so little time! Here are 100 things on my bucket list that I'd like to do in my
-            lifetime. <br> In no particular order:
-        </p>
-        <section class="intro-section">
-            <div class="intro-text">
-                <div id="list100"></div>
-            </div>
-        </section>
+        <div class="pl-frame">
+            <aside class="pl-side left" aria-hidden="true"></aside>
+
+            <main class="pl-main">
+                <div class="pl-head">
+                    <span class="pl-mini start" aria-hidden="true"></span>
+                    <h1>My List 100</h1>
+                    <span class="pl-mini end" aria-hidden="true"></span>
+                </div>
+                <p class="pl-caption">So much to do, yet so little time! Here are 100 things on my bucket list that
+                    I'd like to do in my lifetime. In no particular order:</p>
+                <ol id="list100"></ol>
+            </main>
+
+            <aside class="pl-side right" aria-hidden="true"></aside>
+        </div>
     </div>
 
     <script src="script.js"></script>

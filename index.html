@@ -6,144 +6,235 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sophia Huang!</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Press+Start+2P&family=IBM+Plex+Mono:wght@400;500&display=swap">
+    <link rel="stylesheet" href="home/nouveau.css">
     <link rel="icon" href="home/favicon.png" type="image/x-icon">
 </head>
 
-<body>
+<body class="nv">
+    <div id="welcome" aria-label="Loading">
+        <div class="wl-title">compiling disco...</div>
+        <canvas width="1120" height="680" aria-hidden="true"></canvas>
+        <div class="wl-sub">allocating memory… <span class="wl-count">0/11</span></div>
+        <div class="wl-math">
+            <span class="wl-name"></span>
+            <span class="wl-eq"></span>
+        </div>
+    </div>
+    <script src="home/welcome.js"></script>
     <div id="navbar"></div>
 
     <div id="content">
-        <div class="scale-container">
-            <section class="intro-section">
-                <div class="intro-image">
-                    <img src="home/me.png" alt="Me">
-                </div>
-                <div class="intro-text">
-                    <h1>Oh hey, I'm Sophia!</h1>
-                    <p>Welcome to my corner of the internet! I'm a student at Barnard College, Columbia University in
-                        New York City.</p>
-                    <p>Website coded from scratch with love. :) </p>
-                    <br>
-
-                    <div class="icon-item">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"
-                            aria-hidden="true" focusable="false">
-                            <g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
-                                stroke-linejoin="round">
-                                <path
-                                    d="M8 1.5a4.5 4.5 0 0 0-2.9 7.95c.55.48.9 1.15.9 1.86V12h4v-.69c0-.71.35-1.38.9-1.86A4.5 4.5 0 0 0 8 1.5Z" />
-                                <path d="M6.5 14h3" />
-                                <path d="M6 12.5h4" />
+        <section class="nv-hero">
+            <div class="nv-arch">
+                <svg viewBox="0 120 460 520" aria-hidden="true">
+                    <g id="nv-vine-l">
+                        <path id="nv-vinepath" class="nv-vine"
+                            d="M70 634 C 82 590, 66 540, 76 490 S 70 380, 76 320 A156 156 0 0 1 179 172 C 194 166, 208 172, 204 184 C 200 194, 188 190, 192 181"
+                            fill="none" stroke="#787f17" stroke-width="3.2" stroke-linecap="round" />
+                        <path class="nv-vine late" d="M74 560 C 54 548, 46 520, 60 508 C 68 502, 76 512, 68 517"
+                            fill="none" stroke="#a8b47a" stroke-width="1.6" stroke-linecap="round" />
+                        <path class="nv-vine late" d="M78 300 C 70 270, 80 240, 98 228" fill="none" stroke="#a8b47a"
+                            stroke-width="1.6" stroke-linecap="round" />
+                        <text font-family="SF Mono, Menlo, monospace" font-size="8.5" fill="#b8606e" dy="-6">
+                            <textPath href="#nv-vinepath" startOffset="-60%">01010011 01001111 01010000 01001000
+                                01001001 01000001
+                                <animate id="nvAL" attributeName="startOffset" from="-60%" to="100%" dur="10s"
+                                    begin="0s;nvAR.end" />
+                            </textPath>
+                        </text>
+                        <path class="nv-leaf" d="M77 470 c -14 -16 -34 -14 -40 -4 c 12 12 30 14 40 4 z" fill="#9fb27a"
+                            stroke="#4a4520" stroke-width="1.2" />
+                        <path class="nv-leaf" style="animation-delay:-1.4s"
+                            d="M75 380 c -14 -14 -32 -10 -36 0 c 12 10 28 10 36 0 z" fill="#b9c78a" stroke="#4a4520"
+                            stroke-width="1.2" />
+                        <path class="nv-leaf" style="animation-delay:-2.6s"
+                            d="M100 236 c -6 -20 -24 -28 -36 -22 c 4 16 20 26 36 22 z" fill="#9fb27a" stroke="#4a4520"
+                            stroke-width="1.2" />
+                        <g transform="translate(18 0) rotate(14 192 172)">
+                            <g class="nv-bloom">
+                                <path d="M192 172 c -9 -12 -6 -26 0 -33 c 6 7 9 21 0 33 z" fill="#f2b8c0"
+                                    stroke="#4a4520" stroke-width="1.2" />
+                                <path d="M192 172 c -14 -5 -19 -17 -17 -26 c 9 2 17 12 17 26 z" fill="#f6d3d6"
+                                    stroke="#4a4520" stroke-width="1.2" />
+                                <path d="M192 172 c 14 -5 19 -17 17 -26 c -9 2 -17 12 -17 26 z" fill="#f6d3d6"
+                                    stroke="#4a4520" stroke-width="1.2" />
+                                <circle cx="192" cy="142" r="2.6" fill="#e8c77a" />
                             </g>
+                        </g>
+                    </g>
+                    <path id="nv-vinepath-r"
+                        d="M390 634 C 378 590, 394 540, 384 490 S 390 380, 384 320 A156 156 0 0 0 281 172 C 266 166, 252 172, 256 184 C 260 194, 272 190, 268 181"
+                        fill="none" stroke="none" />
+                    <text font-family="SF Mono, Menlo, monospace" font-size="8.5" fill="#b8606e" dy="9">
+                        <textPath href="#nv-vinepath-r" startOffset="-60%">01010011 01001111 01010000 01001000 01001001
+                            01000001
+                            <animate id="nvAR" attributeName="startOffset" from="-60%" to="100%" dur="10s"
+                                begin="nvAL.end" />
+                        </textPath>
+                    </text>
+                    <g transform="translate(460 0) scale(-1 1)">
+                        <path class="nv-vine late"
+                            d="M70 634 C 82 590, 66 540, 76 490 S 70 380, 76 320 A156 156 0 0 1 179 172 C 194 166, 208 172, 204 184 C 200 194, 188 190, 192 181"
+                            fill="none" stroke="#787f17" stroke-width="3.2" stroke-linecap="round" />
+                        <path class="nv-vine late" d="M74 560 C 54 548, 46 520, 60 508 C 68 502, 76 512, 68 517"
+                            fill="none" stroke="#a8b47a" stroke-width="1.6" stroke-linecap="round" />
+                        <path class="nv-vine late" d="M78 300 C 70 270, 80 240, 98 228" fill="none" stroke="#a8b47a"
+                            stroke-width="1.6" stroke-linecap="round" />
+                        <path class="nv-leaf" style="animation-delay:-.7s"
+                            d="M77 470 c -14 -16 -34 -14 -40 -4 c 12 12 30 14 40 4 z" fill="#b9c78a" stroke="#4a4520"
+                            stroke-width="1.2" />
+                        <path class="nv-leaf" style="animation-delay:-2s"
+                            d="M75 380 c -14 -14 -32 -10 -36 0 c 12 10 28 10 36 0 z" fill="#9fb27a" stroke="#4a4520"
+                            stroke-width="1.2" />
+                        <path class="nv-leaf" style="animation-delay:-3.2s"
+                            d="M100 236 c -6 -20 -24 -28 -36 -22 c 4 16 20 26 36 22 z" fill="#b9c78a" stroke="#4a4520"
+                            stroke-width="1.2" />
+                        <g transform="translate(18 0) rotate(14 192 172)">
+                            <g class="nv-bloom">
+                                <path d="M192 172 c -9 -12 -6 -26 0 -33 c 6 7 9 21 0 33 z" fill="#f2b8c0"
+                                    stroke="#4a4520" stroke-width="1.2" />
+                                <path d="M192 172 c -14 -5 -19 -17 -17 -26 c 9 2 17 12 17 26 z" fill="#f6d3d6"
+                                    stroke="#4a4520" stroke-width="1.2" />
+                                <path d="M192 172 c 14 -5 19 -17 17 -26 c -9 2 -17 12 -17 26 z" fill="#f6d3d6"
+                                    stroke="#4a4520" stroke-width="1.2" />
+                                <circle cx="192" cy="142" r="2.6" fill="#e8c77a" />
+                            </g>
+                        </g>
+                    </g>
+                </svg>
+
+                <img src="home/me.png" alt="Me">
+
+                <svg class="nv-front" viewBox="0 120 460 520" aria-hidden="true">
+                    <path d="M100 610 L100 320 A130 130 0 0 1 360 320 L360 610" fill="none" stroke="#c59a3e"
+                        stroke-width="7" />
+                    <path d="M89 616 L89 320 A141 141 0 0 1 371 320 L371 616" fill="none" stroke="#787f17"
+                        stroke-width="2" />
+                    <rect x="76" y="606" width="308" height="30" rx="4" fill="#787f17" />
+                    <text x="230" y="626" text-anchor="middle" font-family="SF Mono, Menlo, monospace" font-size="12"
+                        letter-spacing="2" fill="#f3efdd">✦ central park, ✦</text>
+                </svg>
+            </div>
+
+            <div class="nv-text">
+                <h1>Oh hey, I'm Sophia!</h1>
+                <p>Welcome to my corner of the internet! I'm a student at Barnard College, Columbia University in New
+                    York City. Website coded from scratch with love. :)</p>
+
+                <svg class="nv-rule" viewBox="0 0 260 22" fill="none" stroke="#c59a3e" stroke-width="1.4"
+                    aria-hidden="true">
+                    <path d="M0 11 H100 M160 11 H260" />
+                    <path d="M130 3 L138 11 L130 19 L122 11 Z" fill="#f2b8c0" stroke="#787f17" />
+                    <path d="M100 11 C 108 2, 116 2, 120 11 M160 11 C 152 20, 144 20, 140 11" />
+                </svg>
+
+                <ul class="nv-facts">
+                    <li>
+                        <svg viewBox="0 0 24 24" aria-hidden="true">
+                            <path
+                                d="M12 3a6 6 0 0 0-3.6 10.8c.6.5.9 1.1.9 1.8v.9h5.4v-.9c0-.7.3-1.3.9-1.8A6 6 0 0 0 12 3Z" />
+                            <path d="M9.8 19h4.4M10.6 21.2h2.8" />
                         </svg>
                         <span>AI, Software, Computer Graphics</span>
-                    </div>
-
-                    <div class="icon-item">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+                    </li>
+                    <li>
+                        <svg viewBox="0 0 24 24" aria-hidden="true">
                             <path
-                                d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z">
-                            </path>
+                                d="M12 4c4.7 0 8.5 2.9 8.5 6.6s-3.8 6.6-8.5 6.6c-.9 0-1.8-.1-2.6-.3L5 19.5l1.2-3.6C4.5 14.7 3.5 12.8 3.5 10.6 3.5 6.9 7.3 4 12 4Z" />
                         </svg>
-                        <span>English, Mandarin</span>
-                    </div>
-
-                    <div class="icon-item">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
-                            <path
-                                d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z">
-                            </path>
+                        <span>English, Mandarin, French</span>
+                    </li>
+                    <li>
+                        <svg viewBox="0 0 24 24" aria-hidden="true">
+                            <circle cx="12" cy="12" r="8.5" />
+                            <path d="M12 7.5V12l3 1.8" />
                         </svg>
                         <span id="timezone"></span>
-                    </div>
-
-                    <div class="icon-item">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"
-                            aria-hidden="true" focusable="false">
-                            <g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"
-                                stroke-linejoin="round">
-                                <circle cx="8" cy="5" r="3" />
-                                <path d="M2.5 14c0-2.5 2.5-4.5 5.5-4.5s5.5 2 5.5 4.5" />
-                            </g>
+                    </li>
+                    <li>
+                        <svg viewBox="0 0 24 24" aria-hidden="true">
+                            <circle cx="12" cy="8" r="3.5" />
+                            <path d="M5 20.5c0-3.6 3.1-6 7-6s7 2.4 7 6" />
                         </svg>
                         <span>ENFJ-A 1w9</span>
-                    </div>
-
-                </div>
-            </section>
-        </div>
+                    </li>
+                </ul>
+            </div>
+        </section>
 
         <div id="after-intro">
-            <section class="banner">
+            <section class="nv-banner">
+                <svg viewBox="0 0 150 40" fill="none" stroke="#787f17" stroke-width="1.8" stroke-linecap="round"
+                    aria-hidden="true">
+                    <path d="M0 22 H70 C 96 22, 104 4, 122 8 C 136 12, 134 30, 122 30 C 112 30, 112 18, 120 18" />
+                    <circle cx="140" cy="20" r="3" fill="#c59a3e" stroke="none" />
+                </svg>
                 <h2>Gallery of Memories</h2>
+                <svg class="flip" viewBox="0 0 150 40" fill="none" stroke="#787f17" stroke-width="1.8"
+                    stroke-linecap="round" aria-hidden="true">
+                    <path d="M0 22 H70 C 96 22, 104 4, 122 8 C 136 12, 134 30, 122 30 C 112 30, 112 18, 120 18" />
+                    <circle cx="140" cy="20" r="3" fill="#c59a3e" stroke="none" />
+                </svg>
             </section>
-            <div class="polaroid-carousel">
-                <div class="polaroid"><img src="home/baby.png" alt="Polaroid Image">
-                    <div class="caption"><span class="date">may 11, 2010</span><span class="desc">always been pink and
-                            green</span>
-                    </div>
-                </div>
-                <div class="polaroid"><img src="home/seconde.png" alt="Polaroid Image">
-                    <div class="caption"><span class="date">january 15, 2026</span><span class="desc">coffee table,
-                            montréal</span>
-                    </div>
-                </div>
-                <div class="polaroid"><img src="home/shelf.png" alt="Polaroid Image">
-                    <div class="caption"><span class="date">august 27, 2025</span><span class="desc">moved in to
-                            college!</span>
-                    </div>
-                </div>
-                <div class="polaroid"><img src="home/prom.png" alt="Polaroid Image">
-                    <div class="caption"><span class="date">march 29, 2025</span><span class="desc">senior prom,
-                            dc</span>
-                    </div>
-                </div>
 
-                <div class="polaroid"><img src="home/eiffel.png" alt="Polaroid Image">
-                    <div class="caption"><span class="date">january 2, 2025</span><span class="desc">coucou eiffel,
-                            paris
-                            !</span>
+            <div class="nv-gallery">
+                <figure class="nv-frame">
+                    <div class="pane"><img src="home/baby.png" alt="always been pink and green" loading="lazy"></div>
+                    <figcaption><span class="date">may 11, 2010</span>always been pink and green</figcaption>
+                </figure>
+                <figure class="nv-frame">
+                    <div class="pane"><img src="home/seconde.png" alt="coffee table, montréal" loading="lazy"></div>
+                    <figcaption><span class="date">january 15, 2026</span>coffee table, montréal</figcaption>
+                </figure>
+                <figure class="nv-frame">
+                    <div class="pane"><img src="home/shelf.png" alt="moved in to college" loading="lazy"></div>
+                    <figcaption><span class="date">august 27, 2025</span>moved in to college!</figcaption>
+                </figure>
+                <figure class="nv-frame">
+                    <div class="pane"><img src="home/prom.png" alt="senior prom, dc" loading="lazy"></div>
+                    <figcaption><span class="date">march 29, 2025</span>senior prom, dc</figcaption>
+                </figure>
+                <figure class="nv-frame">
+                    <div class="pane"><img src="home/eiffel.png" alt="coucou eiffel, paris" loading="lazy"></div>
+                    <figcaption><span class="date">january 2, 2025</span>coucou eiffel, paris !</figcaption>
+                </figure>
+                <figure class="nv-frame">
+                    <div class="pane"><img src="home/bagel.png" alt="first homemade bagel" loading="lazy"></div>
+                    <figcaption><span class="date">december 21, 2025</span>first homemade bagel!</figcaption>
+                </figure>
+                <figure class="nv-frame">
+                    <div class="pane"><img src="home/vanity.png" alt="my parents' perfumes" loading="lazy"></div>
+                    <figcaption><span class="date">april 28, 2025</span>my parents' perfumes</figcaption>
+                </figure>
+                <figure class="nv-frame">
+                    <div class="pane"><img src="home/bouquet.png" alt="me and my lily bouquet" loading="lazy"></div>
+                    <figcaption><span class="date">september 28, 2024</span>me and my lily bouquet</figcaption>
+                </figure>
+                <figure class="nv-frame">
+                    <div class="pane"><img src="home/makeup.png" alt="getting ready for my first party" loading="lazy">
                     </div>
-                </div>
-                <div class="polaroid"><img src="home/bagel.png" alt="Polaroid Image">
-                    <div class="caption"><span class="date">december 21, 2025</span><span class="desc">first homemade
-                            bagel!</span>
+                    <figcaption><span class="date">november 30, 2024</span>getting ready for my first party!
+                    </figcaption>
+                </figure>
+                <figure class="nv-frame">
+                    <div class="pane"><img src="home/escargot.png" alt="nyc restaurant week, le rivage" loading="lazy">
                     </div>
-                </div>
-                <div class="polaroid"><img src="home/vanity.png" alt="Polaroid Image">
-                    <div class="caption"><span class="date">april 28, 2025</span><span class="desc">my parents'
-                            perfumes</span>
+                    <figcaption><span class="date">february 6, 2026</span>nyc restaurant week, le rivage</figcaption>
+                </figure>
+                <figure class="nv-frame">
+                    <div class="pane"><img src="home/seville.png" alt="hotel alfonso xiii, seville" loading="lazy">
                     </div>
-                </div>
-                <div class="polaroid"><img src="home/bouquet.png" alt="Polaroid Image">
-                    <div class="caption"><span class="date">september 28, 2024</span><span class="desc">me and my lily
-                            bouquet</span>
-                    </div>
-                </div>
-
-                <div class="polaroid"><img src="home/makeup.png" alt="Polaroid Image">
-                    <div class="caption"><span class="date">november 30, 2024</span><span class="desc">getting ready for
-                            my first party!</span>
-                    </div>
-                </div>
-                <div class="polaroid"><img src="home/escargot.png" alt="Polaroid Image">
-                    <div class="caption"><span class="date">february 6, 2026</span><span class="desc">nyc restaurant
-                            week, le rivage</span>
-                    </div>
-                </div>
-                <div class="polaroid"><img src="home/seville.png" alt="Polaroid Image">
-                    <div class="caption"><span class="date">june 29, 2025</span><span class="desc">hotel alfonso xiii,
-                            seville</span>
-                    </div>
-                </div>
-                <div class="polaroid"><img src="home/lilypad.png" alt="Polaroid Image">
-                    <div class="caption"><span class="date">may 14, 2023</span><span class="desc">lily pad botanical
-                            garden</span>
-                    </div>
-                </div>
+                    <figcaption><span class="date">june 29, 2025</span>hotel alfonso xiii, seville</figcaption>
+                </figure>
+                <figure class="nv-frame">
+                    <div class="pane"><img src="home/lilypad.png" alt="lily pad botanical garden" loading="lazy"></div>
+                    <figcaption><span class="date">may 14, 2023</span>lily pad botanical garden</figcaption>
+                </figure>
             </div>
-        </div>
 
+        </div>
     </div>
 
     <script src="script.js"></script>

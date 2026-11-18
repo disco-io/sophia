@@ -6,31 +6,33 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sophia Huang | Thoughts</title>
     <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="nouveau.css">
     <link rel="icon" href="../home/favicon.png" type="image/x-icon">
 </head>
 
-<body>
+<body class="tg">
     <div id="navbar"></div>
 
     <div id="content">
+        <section class="nv-banner">
+            <svg viewBox="0 0 150 40" fill="none" stroke="#787f17" stroke-width="1.8" stroke-linecap="round"
+                aria-hidden="true">
+                <path d="M0 22 H70 C 96 22, 104 4, 122 8 C 136 12, 134 30, 122 30 C 112 30, 112 18, 120 18" />
+                <circle cx="140" cy="20" r="3" fill="#c59a3e" stroke="none" />
+            </svg>
+            <h1>Thoughts</h1>
+            <svg class="flip" viewBox="0 0 150 40" fill="none" stroke="#787f17" stroke-width="1.8"
+                stroke-linecap="round" aria-hidden="true">
+                <path d="M0 22 H70 C 96 22, 104 4, 122 8 C 136 12, 134 30, 122 30 C 112 30, 112 18, 120 18" />
+                <circle cx="140" cy="20" r="3" fill="#c59a3e" stroke="none" />
+            </svg>
+        </section>
+
         <div id="blog"></div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
-    <script>
-        fetch("../nav.html")
-            .then(res => res.text())
-            .then(data => {
-                document.getElementById("navbar").innerHTML = data;
-            });
-
-        fetch("thoughts.md")
-            .then(res => res.text())
-            .then(md => {
-                document.getElementById("blog").innerHTML = marked.parse(md);
-            });
-    </script>
+    <script src="script.js"></script>
 </body>
 
 </html>

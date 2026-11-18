@@ -1,0 +1,332 @@
+body.pl,
+body.pl #content {
+    background: #f3efdd;
+}
+
+:root {
+    --plum: #787f17;
+    --iris: #f2b8c0;
+    --lilac: #e6a3a3;
+    --teal: #6f8a5a;
+    --fern: #9fb27a;
+    --gold: #787f17;
+    --ink: #83874b;
+    --paper: #f3efdd;
+}
+
+.pl-frame {
+    position: relative;
+    max-width: 1380px;
+    margin: 34px auto 60px;
+    padding: 40px 40px 70px;
+    display: grid;
+    grid-template-columns: 210px minmax(0, 1fr) 210px;
+    gap: 40px;
+    align-items: start;
+}
+
+.pl-main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 0;
+}
+
+.pl-head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+}
+
+.pl-head h1 {
+    margin: 0;
+    font-family: 'SnellRoundhand Script';
+    font-weight: normal;
+    font-size: clamp(44px, 7vw, 76px);
+    color: #e6a3a3;
+}
+
+.pl-caption {
+    margin: 10px 0 0;
+    max-width: 560px;
+    text-align: center;
+    font-size: 19px;
+    line-height: 1.6;
+    color: #d68e8e;
+}
+
+#list100 {
+    margin: 14px 0 0;
+    padding: 0;
+    width: 100%;
+    max-width: 700px;
+    list-style: none;
+}
+
+.pl-item {
+    display: grid;
+    grid-template-columns: 40px minmax(0, 1fr);
+    align-items: center;
+    gap: 18px;
+    padding: 9px 0;
+}
+
+.pl-num {
+    font-size: 24px;
+    color: #a3a66a;
+    text-align: right;
+}
+
+.pl-item.done .pl-num {
+    color: var(--plum);
+}
+
+.pl-text {
+    font-size: 19px;
+    line-height: 1.5;
+    color: var(--ink);
+}
+
+.pl-item.done .pl-text {
+    color: var(--plum);
+}
+
+.pl-text em {
+    color: var(--lilac);
+}
+
+.pl-fern {
+    display: flex;
+    justify-content: center;
+    padding: 8px 0;
+}
+
+.pl-fern svg {
+    width: 300px;
+    max-width: 80%;
+    height: 26px;
+    fill: none;
+    stroke: var(--fern);
+    stroke-width: 1.4;
+    stroke-linecap: round;
+}
+
+.pl-fern circle {
+    fill: var(--lilac);
+    stroke: #787f17;
+}
+
+.pl-more {
+    text-align: center;
+    padding-top: 14px;
+    font-family: 'SnellRoundhand Script';
+    font-size: 32px;
+    color: #e6a3a3;
+}
+
+.pl-side {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding-top: 30px;
+}
+
+.pl-side .tg-tile,
+.pl-mini .tg-tile {
+    width: 100%;
+    height: auto;
+    display: block;
+    overflow: visible;
+}
+
+.pl-side.right .tg-tile,
+.pl-mini.end .tg-tile {
+    transform: scaleX(-1);
+}
+
+.pl-side .tg-tile.flip {
+    transform: rotate(180deg);
+}
+
+.pl-side.right .tg-tile.flip {
+    transform: rotate(180deg) scaleX(-1);
+}
+
+.pl-mini {
+    display: none;
+    width: clamp(52px, 11vw, 84px);
+}
+
+.tg-cell {
+    fill: #f2b8c0;
+    opacity: 0;
+    transition: opacity 1.2s ease 1s;
+}
+
+.tg-tile.flip .tg-cell {
+    fill: #dfe6c4;
+}
+
+.tg-grid {
+    fill: none;
+    stroke: var(--gold);
+    stroke-width: 2.5;
+    stroke-linejoin: round;
+    stroke-dasharray: 1;
+    stroke-dashoffset: 1;
+    transition: stroke-dashoffset 1.6s ease;
+}
+
+.tg-vine {
+    fill: none;
+    stroke: var(--teal);
+    stroke-width: 3.5;
+    stroke-linecap: round;
+    stroke-dasharray: 1;
+    stroke-dashoffset: 1;
+    transition: stroke-dashoffset 2.2s ease .5s;
+}
+
+.tg-leaves {
+    opacity: 0;
+    transition: opacity 1s ease 1.2s;
+}
+
+.tg-leaves path {
+    fill: var(--fern);
+    stroke: #556b45;
+    stroke-width: 1.2;
+}
+
+.tg-bell {
+    transform-box: fill-box;
+    transform-origin: 50% 0%;
+    transform: scale(0);
+    transition: transform .7s cubic-bezier(.3, 1.6, .5, 1);
+}
+
+.tg-stem {
+    fill: none;
+    stroke: var(--teal);
+    stroke-width: 1.6;
+}
+
+.tg-cup {
+    fill: var(--lilac);
+    stroke: #787f17;
+    stroke-width: 1.4;
+    stroke-linejoin: round;
+}
+
+.tg-tile.flip .tg-cup {
+    fill: var(--iris);
+}
+
+.tg-rib {
+    fill: none;
+    stroke: #e6a3a3;
+    stroke-width: 1;
+}
+
+.tg-shine {
+    fill: var(--paper);
+}
+
+.tg-tile.in .tg-grid,
+.tg-tile.in .tg-vine {
+    stroke-dashoffset: 0;
+}
+
+.tg-tile.in .tg-cell {
+    opacity: .55;
+}
+
+.tg-tile.in .tg-leaves {
+    opacity: 1;
+}
+
+.tg-tile.in .tg-bell {
+    transform: scale(1);
+}
+
+.pl-mini .tg-grid {
+    stroke-width: 5;
+}
+
+.pl-mini .tg-vine {
+    stroke-width: 6;
+}
+
+.pl-mini .tg-stem {
+    stroke-width: 3;
+}
+
+.pl-mini .tg-cup {
+    stroke-width: 2.5;
+}
+
+@media (max-width: 1100px) {
+    .pl-frame {
+        grid-template-columns: minmax(0, 1fr);
+        margin: 24px 16px 40px;
+        padding: 44px 22px 56px;
+    }
+
+    .pl-side {
+        display: none;
+    }
+
+    .pl-mini {
+        display: block;
+    }
+}
+
+@media (max-width: 600px) {
+    .pl-frame {
+        margin: 26px 22px 36px;
+        padding: 36px 14px 48px;
+    }
+
+    .pl-head {
+        gap: 10px;
+    }
+
+    .pl-head h1 {
+        font-size: 36px;
+        white-space: nowrap;
+    }
+
+    .pl-mini {
+        width: 44px;
+    }
+
+    .pl-caption {
+        font-size: 16px;
+    }
+
+    .pl-item {
+        grid-template-columns: 32px minmax(0, 1fr);
+        gap: 12px;
+        padding: 7px 0;
+    }
+
+    .pl-num {
+        font-size: 19px;
+    }
+
+    .pl-text {
+        font-size: 16px;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+
+    .tg-grid,
+    .tg-vine,
+    .tg-cell,
+    .tg-leaves,
+    .tg-bell {
+        transition: none;
+    }
+}

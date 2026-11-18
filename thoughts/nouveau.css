@@ -1,0 +1,410 @@
+:root {
+    --pearl: #faf8f1;
+    --mist: #ffdcd5;
+    --blue: #ffdcd5;
+    --steel: #e6a3a3;
+    --slate: #787f17;
+    --ink: #6f7430;
+    --gold: #c59a3e;
+    --gold2: #f6d3d6;
+    --amber: #787f17;
+    --lead: #787f17;
+    --page: #f3efdd;
+}
+
+body.tg,
+body.tg #content {
+    background: var(--page);
+}
+
+.nv-banner {
+    padding: 40px 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+}
+
+.nv-banner h1 {
+    font-family: 'SnellRoundhand Script';
+    font-weight: normal;
+    font-size: clamp(40px, 8vw, 64px);
+    color: var(--amber);
+    margin: 0;
+}
+
+.nv-banner svg {
+    width: 130px;
+    height: 36px;
+}
+
+.nv-banner svg.flip {
+    transform: scaleX(-1);
+}
+
+#blog {
+    position: relative;
+    max-width: 820px;
+    margin: 0 auto;
+    padding: 56px 20px 90px 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    font-size: 17px;
+    line-height: 1.75;
+    color: var(--ink);
+}
+
+#blog::before {
+    content: "";
+    position: absolute;
+    top: 56px;
+    bottom: 90px;
+    left: 37px;
+    width: 2px;
+    background: var(--gold);
+}
+
+#blog .tg-post {
+    position: relative;
+    display: grid;
+    grid-template-columns: 36px minmax(0, 1fr);
+    gap: 18px;
+}
+
+#blog .tg-jewel {
+    width: 16px;
+    height: 16px;
+    margin: 26px auto 0;
+    transform: rotate(45deg);
+    background: var(--blue);
+    border: 2px solid var(--lead);
+    box-shadow: 0 0 0 3px var(--page);
+    position: relative;
+    z-index: 1;
+}
+
+#blog .pinned .tg-jewel {
+    background: var(--gold);
+}
+
+#blog .tg-card {
+    background: var(--pearl);
+    border: 3px solid var(--lead);
+    outline: 1px solid var(--gold);
+    outline-offset: -8px;
+}
+
+#blog .tg-card header {
+    margin: 7px 7px 0;
+    padding: 14px 22px 12px;
+    background: #83874b;
+    border-bottom: 1px solid var(--gold);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 4px 16px;
+}
+
+#blog .tg-card h2 {
+    margin: 0;
+    padding: 0;
+    background: none;
+    font-family: 'Optima', sans-serif;
+    font-weight: normal;
+    font-size: clamp(20px, 3.2vw, 25px);
+    line-height: 1.25;
+    color: #f3efdd;
+}
+
+#blog .tg-date {
+    margin: 0;
+    padding: 0;
+    background: none;
+    font-style: italic;
+    font-size: 14px;
+    color: #f3efdd;
+}
+
+#blog .tg-body {
+    padding: 20px 30px 26px;
+}
+
+#blog .tg-body p {
+    margin: 0 0 14px;
+}
+
+#blog .tg-body p:last-child {
+    margin-bottom: 0;
+}
+
+#blog .tg-body em {
+    display: inline;
+    padding: 0;
+    margin: 0;
+    background: none;
+    color: inherit;
+    font-size: inherit;
+}
+
+#blog .tg-poem {
+    text-align: center;
+    font-style: italic;
+    color: var(--slate);
+    line-height: 1.9;
+}
+
+#blog .tg-quote {
+    margin: 18px 0;
+    padding: 22px 10px 0;
+    border: none;
+    border-top: 1px solid var(--gold);
+    text-align: center;
+    font-style: italic;
+    color: var(--slate);
+    position: relative;
+}
+
+#blog .tg-quote::before {
+    content: "";
+    position: absolute;
+    top: -8px;
+    left: 50%;
+    width: 12px;
+    height: 12px;
+    margin-left: -7px;
+    transform: rotate(45deg);
+    background: var(--gold2);
+    border: 1px solid var(--amber);
+}
+
+#blog .tg-quote:first-child {
+    margin-top: 6px;
+}
+
+#blog .tg-quote p {
+    margin: 0;
+}
+
+.tg-side {
+    position: absolute;
+    top: 56px;
+    bottom: 90px;
+    width: 210px;
+    display: none;
+    flex-direction: column;
+    gap: 40px;
+    pointer-events: none;
+}
+
+.tg-side.left {
+    left: -250px;
+}
+
+.tg-side.right {
+    right: -250px;
+}
+
+.tg-tile {
+    width: 100%;
+    height: auto;
+    display: block;
+    overflow: visible;
+}
+
+.tg-side.right .tg-tile {
+    transform: scaleX(-1);
+}
+
+.tg-side .tg-tile.flip {
+    transform: rotate(180deg);
+}
+
+.tg-side.right .tg-tile.flip {
+    transform: rotate(180deg) scaleX(-1);
+}
+
+.tg-cell {
+    fill: #f2b8c0;
+    opacity: 0;
+    transition: opacity 1.2s ease 1s;
+}
+
+.tg-grid {
+    fill: none;
+    stroke: var(--amber);
+    stroke-width: 2.5;
+    stroke-linejoin: round;
+    stroke-dasharray: 1;
+    stroke-dashoffset: 1;
+    transition: stroke-dashoffset 1.6s ease;
+}
+
+.tg-vine {
+    fill: none;
+    stroke: #6f8a5a;
+    stroke-width: 3.5;
+    stroke-linecap: round;
+    stroke-dasharray: 1;
+    stroke-dashoffset: 1;
+    transition: stroke-dashoffset 2.2s ease 0.5s;
+}
+
+.tg-leaves path {
+    fill: #a9bb8a;
+    stroke: #556b45;
+    stroke-width: 1.2;
+}
+
+.tg-leaves {
+    opacity: 0;
+    transition: opacity 1s ease 1.2s;
+}
+
+.tg-bell {
+    transform-box: fill-box;
+    transform-origin: 50% 0%;
+    transform: scale(0);
+    transition: transform 0.7s cubic-bezier(.3, 1.6, .5, 1);
+}
+
+.tg-stem {
+    fill: none;
+    stroke: #6f8a5a;
+    stroke-width: 1.6;
+}
+
+.tg-cup {
+    fill: #f6d3d6;
+    stroke: var(--amber);
+    stroke-width: 1.4;
+    stroke-linejoin: round;
+}
+
+.tg-shine {
+    fill: #ffffff;
+}
+
+.tg-rib {
+    fill: none;
+    stroke: #e6a3a3;
+    stroke-width: 1;
+}
+
+.tg-tile.in .tg-grid,
+.tg-tile.in .tg-vine {
+    stroke-dashoffset: 0;
+}
+
+.tg-tile.in .tg-cell {
+    opacity: 0.3;
+}
+
+.tg-tile.in .tg-leaves {
+    opacity: 1;
+}
+
+.tg-tile.in .tg-bell {
+    transform: scale(1);
+}
+
+@media (min-width: 1360px) {
+    .tg-side {
+        display: flex;
+    }
+}
+
+.tg-mini {
+    display: none;
+    flex-shrink: 0;
+    width: clamp(52px, 11vw, 84px);
+}
+
+.nv-banner .tg-mini .tg-tile {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.nv-banner .tg-mini.end .tg-tile {
+    transform: scaleX(-1);
+}
+
+.tg-mini .tg-grid {
+    stroke-width: 5;
+}
+
+.tg-mini .tg-vine {
+    stroke-width: 6;
+}
+
+.tg-mini .tg-stem {
+    stroke-width: 3;
+}
+
+.tg-mini .tg-cup {
+    stroke-width: 2.5;
+}
+
+.tg-mini .tg-leaves path {
+    stroke-width: 2;
+}
+
+@media (max-width: 1359px) {
+    .tg-mini {
+        display: block;
+    }
+
+    .nv-banner>svg {
+        display: none;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+
+    .tg-grid,
+    .tg-vine,
+    .tg-cell,
+    .tg-leaves,
+    .tg-bell {
+        transition: none;
+    }
+}
+
+@media (max-width: 600px) {
+    .nv-banner svg {
+        display: none;
+    }
+
+    #blog {
+        font-size: 15px;
+        padding: 36px 12px 60px;
+        gap: 28px;
+    }
+
+    #blog::before {
+        top: 36px;
+        bottom: 60px;
+        left: 21px;
+    }
+
+    #blog .tg-post {
+        grid-template-columns: 20px minmax(0, 1fr);
+        gap: 10px;
+    }
+
+    #blog .tg-jewel {
+        width: 12px;
+        height: 12px;
+        margin-top: 22px;
+    }
+
+    #blog .tg-card header {
+        padding: 12px 16px 10px;
+    }
+
+    #blog .tg-body {
+        padding: 16px 18px 20px;
+    }
+}

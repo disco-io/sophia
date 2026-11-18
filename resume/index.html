@@ -6,174 +6,62 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Sophia Huang | Resume</title>
     <link rel="stylesheet" href="../style.css" />
+    <link rel="stylesheet" href="nouveau.css" />
     <link rel="icon" href="../home/favicon.png" type="image/x-icon">
-
-    <style>
-        body {
-            background-color: #f3efdd;
-        }
-
-        .resume-container {
-            max-width: 780px;
-            margin: 0 auto;
-            padding: 40px 24px 80px;
-            font-family: Optima, sans-serif;
-            line-height: 1.65;
-            color: #4e4e4e;
-        }
-
-        h1 {
-            font-family: Georgia, serif;
-            font-size: 3rem;
-            margin-bottom: 0.25rem;
-            color: #787f17;
-        }
-
-        .subtitle {
-            font-size: 1rem;
-            color: #555;
-            margin-bottom: 2.5rem;
-        }
-
-        .subtitle a {
-            color: #555;
-            text-decoration: none;
-            border-bottom: 1px dotted #999;
-        }
-
-        .subtitle a:hover {
-            color: #787f17;
-        }
-
-        section {
-            margin-bottom: 2.75rem;
-        }
-
-        section h2 {
-            font-family: Georgia, serif;
-            font-size: 1.4rem;
-            border-bottom: 2px solid #e6a3a3;
-            padding-bottom: 0.25rem;
-            margin-bottom: 1rem;
-            color: #787f17;
-        }
-
-        .entry {
-            margin-bottom: 1.5rem;
-        }
-
-        .entry-header {
-            display: flex;
-            justify-content: space-between;
-            flex-wrap: wrap;
-            font-weight: bold;
-        }
-
-        .entry-header span:first-child {
-            color: #787f17;
-            font-weight: bold;
-        }
-
-        .entry-sub {
-            font-style: italic;
-            font-size: 0.95rem;
-            margin-bottom: 0.4rem;
-        }
-
-        ul {
-            padding-left: 1.2rem;
-            margin-top: 0.5rem;
-        }
-
-        li {
-            margin-bottom: 0.4rem;
-        }
-
-        .two-col {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 1rem 2rem;
-        }
-
-        @media (max-width: 600px) {
-            .two-col {
-                grid-template-columns: 1fr;
-            }
-        }
-
-        .pub-fat-button {
-            display: block;
-            padding: 20px 24px;
-            border-radius: 8px;
-            border: 1.5px solid #787f17;
-            background: transparent;
-            color: inherit;
-            text-decoration: none;
-            margin-top: 1rem;
-            transition: border-color 0.2s ease, background-color 0.2s ease;
-        }
-
-        .pub-fat-button:hover {
-            border-color: #787f17;
-            background-color: rgba(120, 127, 23, 0.04);
-        }
-
-        .pub-main {
-            display: block;
-            font-family: Georgia, serif;
-            font-size: 1.15rem;
-            font-weight: bold;
-            letter-spacing: 0.3px;
-            color: #787f17;
-        }
-
-        .pub-sub {
-            display: block;
-            margin-top: 6px;
-            font-size: 0.9rem;
-            opacity: 0.85;
-        }
-    </style>
 </head>
 
-<body>
+<body class="tg">
     <div id="navbar"></div>
 
-    <main class="resume-container">
-        <h1>Sophia Huang</h1>
-        <div class="subtitle">
-            New York, NY ·
-            <a href="https://sophiamhuang.com" target="_blank">sophiamhuang.com</a> ·
-            <a href="https://www.linkedin.com/in/sophiamhuang/" target="_blank">linkedin.com/in/sophiamhuang</a> ·
-            <a href="mailto:sophiamhuang25@gmail.com">sophiamhuang25@gmail.com</a>
-        </div>
+    <main class="cv">
+        <header class="cv-head">
+            <h1 class="cv-name">Sophia Huang</h1>
+            <ul class="cv-contact">
+                <li>New York, NY</li>
+                <li><a href="https://sophiamhuang.com" target="_blank">sophiamhuang.com</a></li>
+                <li><a href="https://www.linkedin.com/in/sophiamhuang/" target="_blank">linkedin.com/in/sophiamhuang</a>
+                </li>
+                <li><a href="mailto:sophiamhuang25@gmail.com">sophiamhuang25@gmail.com</a></li>
+            </ul>
+        </header>
 
         <section>
             <h2>Education</h2>
 
             <div class="entry">
-                <div class="entry-header">
-                    <span>Barnard College, Columbia University</span>
-                    <span>Expected May 2029</span>
+                <div class="entry-head">
+                    <h3>Barnard College, Columbia University</h3>
+                    <span class="date">Expected May 2029</span>
                 </div>
-                <div class="entry-sub">Bachelors, Computer Science · GPA: 3.94 · New York, NY</div>
-                <ul>
-                    <li>Dean's List, every semester</li>
-                    <li>Coursework: Advanced C Programming, Software Quality &amp; Design, Computer Systems, Computer
+                <ul class="entry-sub">
+                    <li>Bachelors, Computer Science</li>
+                    <li><strong>GPA: 3.94</strong></li>
+                    <li>New York, NY</li>
+                </ul>
+                <ul class="points">
+                    <li><strong>Dean's List</strong>, every semester</li>
+                    <li><strong>Coursework:</strong> Advanced C Programming, Software Quality &amp; Design, Computer
+                        Systems, Computer
                         Graphics, Data Structures, Linear Algebra, Multivariable Calculus</li>
-                    <li>Activities: Columbia Application Development Initiative (Lead, DevFest), Girls Who Code
+                    <li><strong>Activities:</strong> Columbia Application Development Initiative (Lead, DevFest), Girls
+                        Who Code
                         (Instructor)</li>
                 </ul>
             </div>
 
             <div class="entry">
-                <div class="entry-header">
-                    <span>Thomas Jefferson High School for Science and Technology</span>
-                    <span>June 2025</span>
+                <div class="entry-head">
+                    <h3>Thomas Jefferson High School for Science and Technology</h3>
+                    <span class="date">June 2025</span>
                 </div>
-                <div class="entry-sub">High School Diploma · GPA: 4.50 · SAT: 1540 · Alexandria, VA</div>
-                <ul>
-                    <li>Winner of 2025 National Merit Scholarship</li>
+                <ul class="entry-sub">
+                    <li>High School Diploma</li>
+                    <li><strong>GPA: 4.50</strong></li>
+                    <li><strong>SAT: 1540</strong></li>
+                    <li>Alexandria, VA</li>
+                </ul>
+                <ul class="points">
+                    <li>Winner of 2025 <strong>National Merit Scholarship</strong></li>
                     <li>Admitted at a ~18% acceptance rate, ranked among the top STEM-focused high schools in the nation
                     </li>
                 </ul>
@@ -184,46 +72,60 @@
             <h2>Experience</h2>
 
             <div class="entry">
-                <div class="entry-header">
-                    <span>Noblis · AI Engineer Intern</span>
-                    <span>Jun 2026 — Aug 2026</span>
+                <div class="entry-head">
+                    <h3>Noblis</h3>
+                    <span class="date">Jun 2026 — Aug 2026</span>
                 </div>
-                <div class="entry-sub">Reston, VA</div>
-                <ul>
-                    <li>Developed an AI-powered news briefing system that saves national defense and security
+                <ul class="entry-sub">
+                    <li><strong>AI Engineer Intern</strong></li>
+                    <li>Reston, VA</li>
+                </ul>
+                <ul class="points">
+                    <li>Developed an <strong>AI-powered news briefing system</strong> that saves national defense and
+                        security
                         professionals research time, keeping them updated on developments in their mission areas
                         (Python, LangChain, Postgres, RAG)</li>
-                    <li>Built a daily scraping pipeline indexing 50,000+ news publications and automated secure
+                    <li>Built a daily scraping pipeline indexing <strong>50,000+ news publications</strong> and
+                        automated secure
                         newsletter delivery via AWS, protecting sensitive user profiles while matching each briefing to
                         the reader's preferences</li>
                 </ul>
             </div>
 
             <div class="entry">
-                <div class="entry-header">
-                    <span>Thomas Jefferson HS Computer Systems Lab · Student System Admin</span>
-                    <span>Jan 2023 — Aug 2025</span>
+                <div class="entry-head">
+                    <h3>Thomas Jefferson HS Computer Systems Lab</h3>
+                    <span class="date">Jan 2023 — Aug 2025</span>
                 </div>
-                <div class="entry-sub">Alexandria, VA</div>
-                <ul>
-                    <li>Developed and maintained features for the school's Django-based intranet, used daily by 2,000+
-                        students and staff</li>
+                <ul class="entry-sub">
+                    <li><strong>Student System Admin</strong></li>
+                    <li>Alexandria, VA</li>
+                </ul>
+                <ul class="points">
+                    <li>Developed and maintained features for the school's Django-based intranet, used daily by
+                        <strong>2,000+
+                            students and staff</strong></li>
                     <li>Debugged and resolved production issues in the intranet and core services (webmail, Linux
                         workstations), keeping critical systems reliable under time pressure</li>
                 </ul>
             </div>
 
             <div class="entry">
-                <div class="entry-header">
-                    <span>Smithsonian Environmental Research Center · Web Developer Intern</span>
-                    <span>Jun 2023 — Aug 2023</span>
+                <div class="entry-head">
+                    <h3>Smithsonian Environmental Research Center</h3>
+                    <span class="date">Jun 2023 — Aug 2023</span>
                 </div>
-                <div class="entry-sub">Remote</div>
-                <ul>
-                    <li>Designed and built an interactive ArcGIS map visualizing water sampling stations across the
+                <ul class="entry-sub">
+                    <li><strong>Web Developer Intern</strong></li>
+                    <li>Remote</li>
+                </ul>
+                <ul class="points">
+                    <li>Designed and built an <strong>interactive ArcGIS map</strong> visualizing water sampling
+                        stations across the
                         Chesapeake Bay, turning field data into an accessible public tool on the organization's website
                     </li>
-                    <li>Drove a 33% increase in volunteer water sample collection after launch by making sampling
+                    <li>Drove a <strong>33% increase</strong> in volunteer water sample collection after launch by
+                        making sampling
                         locations easy to find and explore</li>
                 </ul>
             </div>
@@ -232,30 +134,39 @@
         <section>
             <h2>Publications</h2>
 
-            <a class="pub-fat-button" href="https://doi.org/10.1002/qub2.70003" target="_blank">
+            <a class="pub" href="https://doi.org/10.1002/qub2.70003" target="_blank">
                 <span class="pub-main">A data-driven pairwise comparative approach for the estimation of
                     transmission fitness of SARS-CoV-2 variants</span>
-                <span class="pub-sub">Wiley · Co-author · 1k+ views</span>
+                <ul class="pub-sub">
+                    <li>Wiley</li>
+                    <li>Co-author</li>
+                    <li>1k+ views</li>
+                </ul>
             </a>
         </section>
 
         <section>
             <h2>Technical Skills</h2>
-            <ul>
-                <li><strong>Languages:</strong> Python, JavaScript, Java, C, C++, Bash, R</li>
-                <li><strong>AI/ML:</strong> PyTorch, LangChain, Hugging Face, OpenAI API, RAG</li>
-                <li><strong>Web &amp; Mobile:</strong> React Native (Expo), Node.js, Express, Django, Postgres,
-                    Supabase, HTML/CSS</li>
-                <li><strong>Tools &amp; Infrastructure:</strong> AWS, Docker, Git, GitLab, Linux, ArcGIS</li>
-            </ul>
+            <dl class="skills">
+                <dt>Languages</dt>
+                <dd>Python, JavaScript, Java, C, C++, Bash, R</dd>
+                <dt>AI/ML</dt>
+                <dd>PyTorch, LangChain, Hugging Face, OpenAI API, RAG</dd>
+                <dt>Web &amp; Mobile</dt>
+                <dd>React Native (Expo), Node.js, Express, Django, Postgres, Supabase, HTML/CSS</dd>
+                <dt>Tools &amp; Infrastructure</dt>
+                <dd>AWS, Docker, Git, GitLab, Linux, ArcGIS</dd>
+            </dl>
         </section>
 
         <section>
             <h2>Languages</h2>
-            <ul>
-                <li>English (Native)</li>
-                <li>Mandarin (Professional Working Proficiency)</li>
-            </ul>
+            <dl class="skills">
+                <dt>English</dt>
+                <dd>Native</dd>
+                <dt>Mandarin</dt>
+                <dd>Professional Working Proficiency</dd>
+            </dl>
         </section>
     </main>
 

@@ -1,0 +1,40 @@
+.sv-head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    padding: 40px 20px 46px;
+}
+
+.sv-head h1 {
+    margin: 0;
+    font-family: 'SnellRoundhand Script';
+    font-weight: normal;
+    font-size: clamp(44px, 8vw, 66px);
+    color: #e6a3a3;
+}
+
+.sv-head svg {
+    width: 130px;
+    height: 36px;
+}
+
+.sv-head svg.flip {
+    transform: scaleX(-1);
+}
+
+.socials-grid a img {
+    transition: transform .35s cubic-bezier(.3, 1.6, .5, 1), filter .35s ease;
+}
+
+.socials-grid a img:hover {
+    transform: translateY(-6px) scale(1.2);
+    opacity: 1;
+    filter: drop-shadow(0 10px 12px rgba(120, 127, 23, .25));
+}
+
+@media (max-width: 600px) {
+    .sv-head svg {
+        display: none;
+    }
+}

@@ -36,7 +36,7 @@ Finding the lyrics for a lesser known song feels like uncovering a mystery until
 *Music*
 
 ![Saltwater Room](covers/saltwaterroom.jpg) 
-Since childhood, this song has held a special place in my heart for its vague, dream-like quality. Even now, I struggle to offer a proper introduction to it, as I myself remain unsure of what it truly means to me. But imagine you're drifting through a saltwater room, a liminal space suspended between land and water, where nothing is one thing more than another. You cannot tell if what you're experiencing is dream or reality. Outside is flooded with tears or ocean, the salt water which represents sadness and chaotic uncertainty. But inside is the bubble where the two of you have built a fragile, temporary ecosystem, safe from the oddities of the world. 
+Since childhood, this song has held a special place in my heart for its vague, dream-like quality. Even now, I struggle to offer a proper introduction to it, as I myself remain unsure of what it truly means to me. But imagine you're drifting through a saltwater room, a liminal space suspended between land and water, where nothing is one thing more than another. You cannot tell if what you're experiencing is dream or reality. Outside is flooded with tears or ocean, the salt water which represents sadness and chaotic uncertainty. But inside is the bubble where you have built a fragile, temporary ecosystem, safe from the oddities of the world. 
 
 > I opened my eyes last night and saw you in the low light      
 > Walking down by the bay, on the shore   
@@ -47,7 +47,8 @@ Since childhood, this song has held a special place in my heart for its vague, d
 *Poem*
 
 ![Metamorphoses](covers/metamorphoses.jpg) 
-Echo was a nymph cursed to only repeat the last words spoken to her, and when she fell in love with Narcissus she could offer him nothing but an echo of himself. Although myth, this is in many ways what we do when we are enchanted to silence by the presence of someone we admire. We offer them themselves because in our eyes they embody perfection and we don't know what else to give. But when we wear the skin of someone who is not us the artifice becomes transparent and people recoil from it, they can sense it, the way Narcissus recoiled from Echo even though all she was doing was loving him the only way she knew how.
+
+Echo was a nymph cursed to only repeat the last words spoken to her, and when she fell in love with Narcissus she could offer him nothing but an echo of himself. Although myth, this is often what we do when we are enchanted to silence by someone we admire. We offer them themselves because in our eyes they embody perfection and we don’t know what else to give. But when we wear the skin of someone who is not us the artifice becomes transparent and people recoil from it, they can sense it, the way Narcissus recoiled from Echo even though all she was doing was loving him the only way she knew how.
 
 > "Come be with me!" he says.  
 > Echo had never been more glad to echo and repeated,  
@@ -141,8 +142,7 @@ The opening instrumental is a beautiful chaos, all the sounds of a symphony coll
 
 Dreams are a strange thing. You’re supposed to be at rest while you sleep, yet sometimes your mind feels more active than ever, spinning the wildest visions so vivid they can feel more real than waking life. That’s how some of my dreams are. I’ve lived through entire stories in my sleep, and a few have even left a mark on my waking world. 
 
-> I saw you in a dream   
-> You came to me   
+> I saw you in a dream, you came to me   
 > You were the sweetest apparition, such a pretty vision     
 > There was no reason, no explanation  
 > The perfect hallucination  
