@@ -4,10 +4,10 @@
 
     const TECH = [
         ["languages", ["Python", "JavaScript", "Java", "C", "C++", "Bash", "R"]],
-        ["ai / ml", ["PyTorch", "LangChain", "Hugging Face", "OpenAI API"]],
-        ["ai agents", ["Claude", "Cursor", "Lovable"]],
+        ["ai / ml", ["PyTorch", "LangChain", "Hugging Face", "Anthropic API"]],
+        ["tools", ["AWS", "Docker", "Git", "GitLab", "Linux"]],
         ["web & mobile", ["React Native", "Node.js", "Express", "Django", "Postgres", "Supabase"]],
-        ["tools", ["AWS", "Docker", "Git", "GitLab", "Linux"]]
+        ["ai agents", ["Claude", "Cursor", "Lovable"]]
     ];
     const GLASS = ["#eef1e2", "#cfe0ad", "#a8c77f", "#7ea85c", "#557f3c"];
     const W = 1200, CELL = 20;

@@ -357,3 +357,136 @@ body {
         height: 160px;
     }
 }
+
+.private-note {
+    max-width: 640px;
+    margin: 56px auto 0;
+    text-align: center;
+    font-family: 'IBM Plex Mono', 'Courier New', monospace;
+    font-size: .88rem;
+    line-height: 1.6;
+    color: #a3a66a;
+}
+
+.recs {
+    max-width: 1044px;
+    margin: 80px auto 0;
+}
+
+.recs-head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 18px;
+    margin-bottom: 40px;
+}
+
+.recs-head h2 {
+    margin: 0;
+    font-family: 'Press Start 2P', monospace;
+    font-weight: normal;
+    font-size: 26px;
+    color: #787f17;
+}
+
+.rc-curl {
+    width: 120px;
+    height: 32px;
+    flex-shrink: 0;
+}
+
+.rc-curl.flip {
+    transform: scaleX(-1);
+}
+
+.recs-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 500px));
+    justify-content: center;
+    gap: 44px;
+}
+
+.rc {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    background: #ffffff;
+    border: 2px solid #787f17;
+    border-radius: 10px;
+    overflow: hidden;
+    transition: transform .25s ease, box-shadow .25s ease;
+}
+
+.rc:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 22px rgba(120, 127, 23, .22);
+}
+
+.rc-head {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 16px 26px;
+    background: #83874b;
+    color: #f3efdd;
+}
+
+.rc-name {
+    font-family: 'IBM Plex Mono', 'Courier New', monospace;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+.rc-org {
+    font-family: 'Optima', sans-serif;
+    font-size: .95rem;
+    opacity: .9;
+}
+
+.rc-body {
+    position: relative;
+    margin: 0;
+    padding: 34px 30px 30px;
+    font-family: 'Optima', sans-serif;
+    font-style: italic;
+    font-size: 1.05rem;
+    line-height: 1.75;
+    color: #6f7430;
+}
+
+.rc-body::before {
+    content: "\201C";
+    position: absolute;
+    top: 2px;
+    left: 14px;
+    font-family: Georgia, serif;
+    font-style: normal;
+    font-size: 3.2rem;
+    line-height: 1;
+    color: #e6a3a3;
+}
+
+@media (max-width: 1100px) {
+    .recs-grid {
+        grid-template-columns: minmax(0, 520px);
+    }
+}
+
+@media (max-width: 600px) {
+    .recs-head h2 {
+        font-size: 16px;
+    }
+
+    .rc-curl {
+        display: none;
+    }
+
+    .rc-head {
+        padding: 14px 20px;
+    }
+
+    .rc-body {
+        padding: 30px 20px 22px;
+        font-size: .95rem;
+    }
+}
